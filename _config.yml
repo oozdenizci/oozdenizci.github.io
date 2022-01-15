@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ozan Özdenizci"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "oozdenizci.JPG"
+  bio              : "Postdoctoral Researcher, TU Graz"
   location         : "Graz, Austria"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ozan-özdenizci-3765a8b6/"
+  linkedin         : "ozan-özdenizci-3765a8b6/"
   orcid            : 
   pinterest        :
   soundcloud       :
