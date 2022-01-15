@@ -10,24 +10,23 @@ author_profile: true
 
 Teaching
 ======
+* Deep Learning (KU), Co-Instructor (WS20, WS21)\\
+&nbsp;&nbsp; Graduate course, Faculty of Computer Science and Biomedical Engineering\\
+&nbsp;&nbsp; Graz University of Technology, Graz, Austria
 
-Deep Learning (KU), Co-Instructor (WS20, WS21)
-Graduate course, Faculty of Computer Science and Biomedical Engineering, 
-Graz University of Technology, Graz, Austria
+* Autonomously Learning Systems (KU), Co-Instructor (WS21)\\
+&nbsp;&nbsp; Graduate course, Faculty of Computer Science and Biomedical Engineering\\
+&nbsp;&nbsp; Graz University of Technology, Graz, Austria
 
-Autonomously Learning Systems (KU), Co-Instructor (WS21)
-Graduate course, Faculty of Computer Science and Biomedical Engineering, 
-Graz University of Technology, Graz, Austria
+* Machine Learning 1 (VO), Co-Instructor (SS21)\\
+&nbsp;&nbsp; Undergraduate course, Faculty of Computer Science and Biomedical Engineering\\
+&nbsp;&nbsp; Graz University of Technology, Graz, Austria
 
-Machine Learning 1 (VO), Co-Instructor (SS21)
-Undergraduate course, Faculty of Computer Science and Biomedical Engineering, 
-Graz University of Technology, Graz, Austria
+* Pattern Recognition and Machine Learning, Graduate Teaching Assistant (Sep 2018 -- Dec 2019)\\
+&nbsp;&nbsp; Graduate course, Department of Electrical and Computer Engineering\\
+&nbsp;&nbsp; Northeastern University, Boston, MA, USA
 
-Pattern Recognition and Machine Learning, Graduate Teaching Assistant (Sep 2018 -- Dec 2019)
-Graduate course, Department of Electrical and Computer Engineering
-Northeastern University, Boston, MA, USA
-
-Statistical Modeling, Graduate Teaching Assistant (Sep 2014 -- Aug 2016)
-Undergraduate courses, Faculty of Engineering and Natural Sciences
-Sabancı University, Istanbul, Turkey
+* Statistical Modeling, Graduate Teaching Assistant (Sep 2014 -- Aug 2016)\\
+&nbsp;&nbsp; Undergraduate courses, Faculty of Engineering and Natural Sciences\\
+&nbsp;&nbsp; Sabancı University, Istanbul, Turkey
 
