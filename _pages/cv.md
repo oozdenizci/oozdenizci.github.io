@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., Electrical Engineering, Northeastern University, Boston, MA, USA (2016 - 2020) 
+* MSc., Electronics Engineering, Sabanci University, Istanbul, Turkey (2014 - 2016) 
+* BSc., Electronics Engineering (with minor in Mathematics), Sabanci University, Istanbul, Turkey (2010 - 2014) 
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Postdoctoral University Assistant at the Institute of Theoretical Computer Science, Graz University of Technology, Austria (Aug 2020 - Present) 
+* Postdoctoral Researcher at TU Graz - SAL Dependable Embedded Systems Lab, Silicon Austria Labs, Graz, Austria (Aug 2020 - Present) 
+* Research and Teaching Assistant at Department of Electrical and Computer Engineering, Northeastern University, Boston, MA, USA (Sep 2016 - Apr 2020)
+* Research Intern at g.tec medical engineering GmbH, Graz, Austria (Jan - Jun 2019) 
+* Research Intern at Mitsubishi Electric Research Laboratories, Cambridge, MA, USA (May - Aug 2018) 
+* Visiting Student Researcher at Max Planck Institute for Intelligent Systems, Tübingen, Germany (Jun - Sep 2013 & Apr - Jun 2014) 
+* Research and Teaching Assistant at Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, Turkey (Jan 2013 - Aug 2016)
