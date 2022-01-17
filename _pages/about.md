@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a postdoctoral university assistant at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I am also co-affiliated with the [TU Graz - SAL Dependable Embedded Systems Lab](https://research-network.silicon-austria.com/des-lab/), Silicon Austria Labs, Graz, Austria. My research is focused in the domain of machine learning for robust artificial intelligence tools, and statistical signal processing with biomedical applications.
+I am a postdoctoral university assistant at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, Austria, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I am also co-affiliated with the [TU Graz - SAL Dependable Embedded Systems Lab](https://research-network.silicon-austria.com/des-lab/), Silicon Austria Labs, Graz, Austria. My research is focused in the domain of machine learning for robust artificial intelligence tools, and statistical signal processing with biomedical applications.
 
 Before joining TU Graz, I received my Ph.D. degree in April 2020 from [Northeastern University](https://www.northeastern.edu), Boston, MA, USA, under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/). Prior to that, I obtained my MSc. and BSc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/), Istanbul, Turkey, under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
 
