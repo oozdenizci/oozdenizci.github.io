@@ -15,7 +15,8 @@ Before joining TU Graz, I received my Ph.D. degree in April 2020 from [Northeast
 News
 ======
 * [October 2021] - Received an Outstanding Reviewer Award in NeurIPS 2021 (among the top 8% of reviewers).
-* [August 2021] - Our paper titled "Training adversarially robust sparse networks via Bayesian connectivity sampling" is accepted at ICML 2021. [PDF](http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf) / [Code](https://github.com/IGITUGraz/SparseAdversarialTraining)
+* [July 2021] - Presented our work on sparse adversarial training of deep neural networks at ICML 2021. [Spotlight](https://icml.cc/virtual/2021/poster/8563) talk and [poster](files/OzdenizciLegenstein_ICML2021_Poster.pdf) are available online.
+* [May 2021] - Our paper titled "Training adversarially robust sparse networks via Bayesian connectivity sampling" is accepted at ICML 2021. [PDF](http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf) / [Code](https://github.com/IGITUGraz/SparseAdversarialTraining)
 * [May 2021] - Presented our [paper](https://arxiv.org/pdf/2102.08061.pdf) titled "On the use of generative deep neural networks to synthesize artificial multichannel EEG signals" at the 10th International IEEE/EMBS Conference on Neural Engineering (NER).
 * [April 2021] - Our [paper](https://doi.org/10.1016/j.ins.2021.04.066) titled "Stochastic mutual information gradient estimation for dimensionality reduction networks" is accepted for publication at Elsevier - Information Sciences.
 * [Februrary 2021] - Our [paper](https://doi.org/10.1109/JBHI.2021.3062335) titled "Universal physiological representation learning with soft-disentangled rateless autoencoders" is accepted for publication at IEEE Journal of Biomedical and Health Informatics.
