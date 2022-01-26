@@ -25,6 +25,7 @@ Journal Articles
 
 Peer-Reviewed Conference Publications
 ======
+* D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, R. Mikut, A. Schmidt, <b>O. Özdenizci</b>, "Domain-invariant representation learning from EEG with private encoders", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022.
 * <b>O. Özdenizci</b>, R. Legenstein, "Training adversarially robust sparse networks via Bayesian connectivity sampling", International Conference on Machine Learning (ICML), 2021. <a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a>
 * <b>O. Özdenizci</b>, D. Erdoğmuş, "On the use of generative deep neural networks to synthesize artificial multichannel EEG signals", 10th International IEEE/EMBS Conference on Neural Engineering (NER), Virtual, 2021. <a href="https://arxiv.org/pdf/2102.08061.pdf">PDF</a>
 * M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş, "Disentangled adversarial transfer learning for physiological biosignals", IEEE Engineering in Medicine and Biology Conference (EMBC), Virtual, 2020. <a href="https://arxiv.org/pdf/2004.08289.pdf">PDF</a>

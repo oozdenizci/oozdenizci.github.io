@@ -14,10 +14,10 @@ Before joining TU Graz, I received my Ph.D. degree in April 2020 from [Northeast
 
 News
 ======
+* [January 2022] - New paper accepted at ICASSP 2022.\\
+D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, R. Mikut, A. Schmidt, O. Özdenizci, "Domain-invariant representation learning from EEG with private encoders", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022.
 * [October 2021] - Received an Outstanding Reviewer Award in NeurIPS 2021 (among the top 8% of reviewers).
 * [July 2021] - Presented our work on sparse adversarial training of deep neural networks at ICML 2021. [Spotlight](https://icml.cc/virtual/2021/poster/8563) talk and [poster](files/OzdenizciLegenstein_ICML2021_Poster.pdf) are available online.
-* [May 2021] - Our paper titled "Training adversarially robust sparse networks via Bayesian connectivity sampling" is accepted at ICML 2021. [PDF](http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf) / [Code](https://github.com/IGITUGraz/SparseAdversarialTraining)
+* [May 2021] - New paper accepted at ICML 2021. [PDF](http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf) / [Code](https://github.com/IGITUGraz/SparseAdversarialTraining)\\
+O. Özdenizci, R. Legenstein, "Training adversarially robust sparse networks via Bayesian connectivity sampling", International Conference on Machine Learning (ICML), 2021.
 * [May 2021] - Presented our [paper](https://arxiv.org/pdf/2102.08061.pdf) titled "On the use of generative deep neural networks to synthesize artificial multichannel EEG signals" at the 10th International IEEE/EMBS Conference on Neural Engineering (NER).
-* [April 2021] - Our [paper](https://doi.org/10.1016/j.ins.2021.04.066) titled "Stochastic mutual information gradient estimation for dimensionality reduction networks" is accepted for publication at Elsevier - Information Sciences.
-* [Februrary 2021] - Our [paper](https://doi.org/10.1109/JBHI.2021.3062335) titled "Universal physiological representation learning with soft-disentangled rateless autoencoders" is accepted for publication at IEEE Journal of Biomedical and Health Informatics.
-* [February 2021] - Our [paper](https://doi.org/10.1016/j.bspc.2021.102507) titled "EEG-based texture roughness classification in active tactile exploration with invariant representation learning networks" is accepted for publication at Elsevier - Biomedical Signal Processing and Control.
