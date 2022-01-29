@@ -39,21 +39,21 @@ author_profile: true
 
 ## 2020
 
-* **Disentangled adversarial autoencoder for subject-invariant physiological feature extraction**\\  
+* **Disentangled adversarial autoencoder for subject-invariant physiological feature extraction**\\
   M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,\\
   *IEEE Signal Processing Letters*, vol 27, pp 1565-1569, 2020. [<a href="https://arxiv.org/pdf/2008.11426">PDF</a>]
 
-* **Learning invariant representations from EEG via adversarial inference**\\ 
+* **Learning invariant representations from EEG via adversarial inference**\\
   <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,\\
   *IEEE Access*, vol 8, pp 27074-27085, 2020. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8981912">PDF</a> / <a href="https://github.com/oozdenizci/AdversarialEEGDecoding">Code</a>]
 
-* **Disentangled adversarial transfer learning for physiological biosignals**\\ 
+* **Disentangled adversarial transfer learning for physiological biosignals**\\
   M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,\\
   *IEEE Engineering in Medicine and Biology Conference (EMBC)*, 2020. [<a href="https://arxiv.org/pdf/2004.08289.pdf">PDF</a>]
 
 ## 2019
 
-* **Information theoretic feature transformation learning for brain interfaces**\\ 
+* **Information theoretic feature transformation learning for brain interfaces**\\
   <b>O. Özdenizci</b>, D. Erdoğmuş,\\
   *IEEE Transactions on Biomedical Engineering*, vol 67(1), pp 69-78, 2019. [<a href="https://arxiv.org/pdf/1903.12235.pdf">PDF</a> / <a href="https://github.com/oozdenizci/MMIDimReduction">Code</a>]
 
@@ -65,11 +65,11 @@ author_profile: true
   <b>O. Özdenizci</b>, T. Meyer, F. Wichmann, J. Peters, B. Schölkopf, M. Grosse-Wentrup,\\
   *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Bari, Italy, 2019. [<a href="https://arxiv.org/pdf/1907.09533.pdf">PDF</a>]
   
-* **Adversarial feature learning in brain interfacing: an experimental study on eliminating drowsiness effects**\\ 
+* **Adversarial feature learning in brain interfacing: an experimental study on eliminating drowsiness effects**\\
   <b>O. Özdenizci</b>, B. Oken, T. Memmott, M. Fried-Oken, D. Erdoğmuş,\\
   *8th Graz Brain-Computer Interface Conference*, Graz, Austria, 2019. [<a href="https://arxiv.org/pdf/1907.09540.pdf">PDF</a>]
   
-* **Transfer learning in brain-computer interfaces with adversarial variational autoencoders**\\  
+* **Transfer learning in brain-computer interfaces with adversarial variational autoencoders**\\
   <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,\\
   *9th International IEEE/EMBS Conference on Neural Engineering (NER)*, San Francisco, USA, 2019. [<a href="https://arxiv.org/pdf/1812.06857.pdf">PDF</a> / <a href="https://github.com/oozdenizci/AdversarialConditionalVAE">Code</a>]
 
@@ -89,16 +89,16 @@ author_profile: true
 
 ## 2017
 
-* **Electroencephalographic identifiers of motor adaptation learning**\\  
+* **Electroencephalographic identifiers of motor adaptation learning**\\
   <b>O. Özdenizci</b>, M. Yalçın, A. Erdoğan, V. Patoğlu, M. Grosse-Wentrup, M. Çetin,\\ 
   *Journal of Neural Engineering*, vol 14(4), pp 046027, 2017. [<a href="http://people.sabanciuniv.edu/mcetin/publications/ozdenizci_JNE17.pdf">PDF</a>]
 
-* **Information theoretic feature projection for single-trial brain-computer interfaces**\\  
+* **Information theoretic feature projection for single-trial brain-computer interfaces**\\
   <b>O. Özdenizci</b>, F. Quivira, D. Erdoğmuş,\\
   *IEEE International Workshop on Machine Learning for Signal Processing (MLSP)*, Tokyo, Japan, 2017. [<a href="https://ieeexplore.ieee.org/abstract/document/8168178/">PDF</a>]
 
 * **Personalized brain-computer interface models for motor rehabilitation**\\
-  A. A. Mastakouri, S. Weichwald, <b>O. Özdenizci</b>, T. Meyer, B. Schölkopf, M. Grosse-Wentrup,\\ 
+  A. A. Mastakouri, S. Weichwald, <b>O. Özdenizci</b>, T. Meyer, B. Schölkopf, M. Grosse-Wentrup,\\
   *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Banff, Canada, 2017. [<a href="https://arxiv.org/pdf/1705.03259.pdf">PDF</a>]
   
 * **Correlations of motor adaptation learning and modulation of resting-state sensorimotor EEG activity**\\
@@ -118,12 +118,12 @@ author_profile: true
 ## 2015
 
 * **Causal interpretation rules for encoding and decoding models in neuroimaging**\\
-  S. Weichwald, T. Meyer, <b>O. Özdenizci</b>, B. Schölkopf, T. Ball, M. Grosse-Wentrup,\\ 
+  S. Weichwald, T. Meyer, <b>O. Özdenizci</b>, B. Schölkopf, T. Ball, M. Grosse-Wentrup,\\
   *NeuroImage*, vol 110, pp 48-59, 2015. [<a href="https://arxiv.org/pdf/1511.04780.pdf">PDF</a>]
 
 
 * **Adaptive alpha neurofeedback on parieto-occipital cortex for motor learning performance**\\
-  <b>O. Özdenizci</b>, T. Meyer, M. Çetin, M. Grosse-Wentrup,\\ 
+  <b>O. Özdenizci</b>, T. Meyer, M. Çetin, M. Grosse-Wentrup,\\
   *IEEE Signal Processing and Communications Applications Conference (SIU)*, Malatya, Turkey, 2015. [<a href="http://research.sabanciuniv.edu/28924/1/OzdenizciSIU2015.pdf">PDF</a>]
 
 ## 2014
