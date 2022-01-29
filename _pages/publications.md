@@ -19,18 +19,18 @@ author_profile: true
 
 * **Training adversarially robust sparse networks via Bayesian connectivity sampling**  
   <b>O. Özdenizci</b>, R. Legenstein,  
-  *International Conference on Machine Learning (ICML)*, 2021. [<a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a>]
+  *International Conference on Machine Learning (ICML)*, 2021. [<a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a> / [Talk](https://icml.cc/virtual/2021/poster/8563) / [Poster](files/OzdenizciLegenstein_ICML2021_Poster.pdf)]
 
 * **On the use of generative deep neural networks to synthesize artificial multichannel EEG signals**  
   <b>O. Özdenizci</b>, D. Erdoğmuş,  
   *10th International IEEE/EMBS Conference on Neural Engineering (NER)*, 2021. [<a href="https://arxiv.org/pdf/2102.08061.pdf">PDF</a>]
   
 * **Stochastic mutual information gradient estimation for dimensionality reduction networks**  
-  <b>O. Özdenizci</b>, D. Erdoğmuş,  
+  <b>O. Özdenizci</b>, D. Erdoğmuş,
   *Information Sciences*, vol 570, pp 298-305, 2021. [<a href="https://arxiv.org/pdf/2105.00191.pdf">PDF</a>]
 
 * **Universal physiological representation learning with soft-disentangled rateless autoencoders**  
-  M. Han, <b>O. Özdenizci</b>, T. Koike-Akino, Y. Wang, D. Erdoğmuş, 
+  M. Han, <b>O. Özdenizci</b>, T. Koike-Akino, Y. Wang, D. Erdoğmuş,
   *IEEE Journal of Biomedical and Health Informatics*, vol 25(8), pp 2928-2937, 2021. [<a href="https://arxiv.org/pdf/2009.13453.pdf">PDF</a>]
 
 * **EEG-based texture roughness classification in active tactile exploration with invariant representation learning networks**  
@@ -40,33 +40,33 @@ author_profile: true
 ## 2020
 
 * **Disentangled adversarial autoencoder for subject-invariant physiological feature extraction**  
-  M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş, 
+  M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,
   *IEEE Signal Processing Letters*, vol 27, pp 1565-1569, 2020. [<a href="https://arxiv.org/pdf/2008.11426">PDF</a>]
 
 * **Learning invariant representations from EEG via adversarial inference**  
-  <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş, 
+  <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,
   *IEEE Access*, vol 8, pp 27074-27085, 2020. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8981912">PDF</a> / <a href="https://github.com/oozdenizci/AdversarialEEGDecoding">Code</a>]
 
 * **Disentangled adversarial transfer learning for physiological biosignals**  
-  M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş, 
+  M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,
   *IEEE Engineering in Medicine and Biology Conference (EMBC)*, 2020. [<a href="https://arxiv.org/pdf/2004.08289.pdf">PDF</a>]
 
 ## 2019
 
 * **Information theoretic feature transformation learning for brain interfaces**  
-  <b>O. Özdenizci</b>, D. Erdoğmuş, 
+  <b>O. Özdenizci</b>, D. Erdoğmuş,
   *IEEE Transactions on Biomedical Engineering*, vol 67(1), pp 69-78, 2019. [<a href="https://arxiv.org/pdf/1903.12235.pdf">PDF</a> / <a href="https://github.com/oozdenizci/MMIDimReduction">Code</a>]
 
 * **Adversarial deep learning in EEG biometrics**  
-  <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş, 
+  <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,
   *IEEE Signal Processing Letters*, vol 26(5), pp 710-714, 2019. [<a href="https://arxiv.org/pdf/1903.11673.pdf">PDF</a> / <a href="https://github.com/oozdenizci/AdversarialEEGDecoding">Code</a>]
   
 * **Neural signatures of motor skill in the resting brain**  
-  <b>O. Özdenizci</b>, T. Meyer, F. Wichmann, J. Peters, B. Schölkopf, M. Grosse-Wentrup, 
+  <b>O. Özdenizci</b>, T. Meyer, F. Wichmann, J. Peters, B. Schölkopf, M. Grosse-Wentrup,
   *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Bari, Italy, 2019. [<a href="https://arxiv.org/pdf/1907.09533.pdf">PDF</a>]
   
 * **Adversarial feature learning in brain interfacing: an experimental study on eliminating drowsiness effects**  
-  <b>O. Özdenizci</b>, B. Oken, T. Memmott, M. Fried-Oken, D. Erdoğmuş, 
+  <b>O. Özdenizci</b>, B. Oken, T. Memmott, M. Fried-Oken, D. Erdoğmuş,
   *8th Graz Brain-Computer Interface Conference*, Graz, Austria, 2019. [<a href="https://arxiv.org/pdf/1907.09540.pdf">PDF</a>]
   
 * **Transfer learning in brain-computer interfaces with adversarial variational autoencoders**  
@@ -76,11 +76,11 @@ author_profile: true
 ## 2018
 
 * **Time-series prediction of proximal aggression onset in minimally-verbal youth with autism spectrum disorder using physiological biosignals**  
-  <b>O. Özdenizci</b>, C. Cumpanasoiu, C. Mazefsky, M. Siegel, D. Erdoğmuş, S. Ioannidis, M. S. Goodwin, 
+  <b>O. Özdenizci</b>, C. Cumpanasoiu, C. Mazefsky, M. Siegel, D. Erdoğmuş, S. Ioannidis, M. S. Goodwin,
   *IEEE Engineering in Medicine and Biology Conference (EMBC)*, Honolulu, USA, 2018. [<a href="https://arxiv.org/pdf/1809.09948.pdf">PDF</a>]
 
 * **Hierarchical graphical models for context-aware hybrid brain-machine interfaces**
-  <b>O. Özdenizci</b>, S. Y. Günay, F. Quivira, D. Erdoğmuş, 
+  <b>O. Özdenizci</b>, S. Y. Günay, F. Quivira, D. Erdoğmuş,
   *IEEE Engineering in Medicine and Biology Conference (EMBC)*, Honolulu, USA, 2018. [<a href="https://arxiv.org/pdf/1809.05635.pdf">PDF</a>]
 
 * **Predicting imminent aggression onset in minimally-verbal youth with autism spectrum disorder using preceding physiological signals**
