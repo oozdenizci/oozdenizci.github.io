@@ -90,7 +90,7 @@ author_profile: true
 ## 2017
 
 * **Electroencephalographic identifiers of motor adaptation learning**\\
-  <b>O. Özdenizci</b>, M. Yalçın, A. Erdoğan, V. Patoğlu, M. Grosse-Wentrup, M. Çetin,\\ 
+  <b>O. Özdenizci</b>, M. Yalçın, A. Erdoğan, V. Patoğlu, M. Grosse-Wentrup, M. Çetin,\\
   *Journal of Neural Engineering*, vol 14(4), pp 046027, 2017. [<a href="http://people.sabanciuniv.edu/mcetin/publications/ozdenizci_JNE17.pdf">PDF</a>]
 
 * **Information theoretic feature projection for single-trial brain-computer interfaces**\\
