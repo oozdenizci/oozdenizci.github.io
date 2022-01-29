@@ -12,8 +12,9 @@ I am a postdoctoral university assistant at the [Institute of Theoretical Comput
 
 Before joining TU Graz, I received my Ph.D. degree in April 2020 from [Northeastern University](https://www.northeastern.edu), Boston, MA, USA, under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/). Prior to that, I obtained my MSc. and BSc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/), Istanbul, Turkey, under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
 
-News
-======
+
+## News
+
 * [January 2022] - New paper accepted at ICASSP 2022! [[PDF](https://arxiv.org/pdf/2201.11613.pdf)]\\
 D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, R. Mikut, A. Schmidt, O. Özdenizci, "Domain-invariant representation learning from EEG with private encoders", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.
 * [October 2021] - Received an Outstanding Reviewer Award in NeurIPS 2021 (among the top 8% of reviewers).
@@ -21,3 +22,11 @@ D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, R. Mikut, A. Schmidt, O
 * [May 2021] - New paper accepted at ICML 2021! [[PDF](http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf) / [Code](https://github.com/IGITUGraz/SparseAdversarialTraining)]\\
 O. Özdenizci, R. Legenstein, "Training adversarially robust sparse networks via Bayesian connectivity sampling", International Conference on Machine Learning (ICML), 2021.
 * [May 2021] - Presented our [paper](https://arxiv.org/pdf/2102.08061.pdf) titled "On the use of generative deep neural networks to synthesize artificial multichannel EEG signals" at the 10th International IEEE/EMBS Conference on Neural Engineering (NER).
+
+
+## Contact
+
+Inffeldgasse 16b/I\
+Room IC01116\
+8010, Graz, Austria\
+Email: oezdenizci(at)tugraz.at
