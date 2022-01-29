@@ -19,7 +19,7 @@ author_profile: true
 
 * **Training adversarially robust sparse networks via Bayesian connectivity sampling**  
   <b>O. Özdenizci</b>, R. Legenstein,  
-  *International Conference on Machine Learning (ICML)*, 2021. [<a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a> / [Talk](https://icml.cc/virtual/2021/poster/8563) / [Poster](files/OzdenizciLegenstein_ICML2021_Poster.pdf)]
+  *International Conference on Machine Learning (ICML)*, 2021. [<a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a> / <a href="https://icml.cc/virtual/2021/poster/8563">Talk</a> / <a href="files/OzdenizciLegenstein_ICML2021_Poster.pdf">Poster</a>]
 
 * **On the use of generative deep neural networks to synthesize artificial multichannel EEG signals**  
   <b>O. Özdenizci</b>, D. Erdoğmuş,  
