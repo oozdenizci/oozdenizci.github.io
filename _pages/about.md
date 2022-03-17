@@ -3,18 +3,19 @@ permalink: /
 title: "Short Bio"
 excerpt: "Short Bio"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral university assistant at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, Austria, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I am also co-affiliated with the [TU Graz - SAL Dependable Embedded Systems Lab](https://research-network.silicon-austria.com/des-lab/), Silicon Austria Labs, Graz, Austria. My research is focused in the domain of machine learning for robust artificial intelligence tools, and statistical signal processing with biomedical applications.
+I am a postdoctoral university assistant at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, Austria, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I am also co-affiliated with the [TU Graz - SAL Dependable Embedded Systems Lab](https://research-network.silicon-austria.com/des-lab/), Silicon Austria Labs, Graz, Austria. My research is focused in the domain of robust machine learning for reliable artificial intelligence systems, and statistical signal processing with biomedical applications.
 
-Before joining TU Graz, I received my Ph.D. degree in April 2020 from [Northeastern University](https://www.northeastern.edu), Boston, MA, USA, under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/). Prior to that, I obtained my MSc. and BSc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/), Istanbul, Turkey, under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
+Before joining TU Graz, I received my Ph.D. degree in 2020 from [Northeastern University](https://www.northeastern.edu), Boston, MA, USA, under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/). Prior to that, I obtained my MSc. and BSc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/), Istanbul, Turkey, under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
 
 
 ## News
 
+* [March 2022] - Organizing a Research Topic as a Guest Editor at Frontiers in Signal Processing: "Adversarial Machine Learning and Domain Generalization in Neurophysiological Signal Analysis" [[Call for Papers](https://www.frontiersin.org/research-topics/33660/adversarial-machine-learning-and-domain-generalization-in-neurophysiological-signal-analysis)]
 * [January 2022] - New paper accepted at ICASSP 2022! [[PDF](https://arxiv.org/pdf/2201.11613.pdf)]\\
 D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, R. Mikut, A. Schmidt, O. Özdenizci, "Domain-invariant representation learning from EEG with private encoders", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.
 * [October 2021] - Received an Outstanding Reviewer Award in NeurIPS 2021 (among the top 8% of reviewers).
