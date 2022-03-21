@@ -19,7 +19,7 @@ author_profile: true
 
 * **Training adversarially robust sparse networks via Bayesian connectivity sampling**\\
   <b>O. Özdenizci</b>, R. Legenstein,\\
-  *International Conference on Machine Learning (ICML)*, 2021. [<a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a> / <a href="https://icml.cc/virtual/2021/poster/8563">Talk</a> / <a href="files/OzdenizciLegenstein_ICML2021_Poster.pdf">Poster</a>]
+  *International Conference on Machine Learning (ICML)*, 2021. [<a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a> / <a href="https://icml.cc/virtual/2021/poster/8563">Talk</a> / [Poster](files/OzdenizciLegenstein_ICML2021_Poster.pdf)]
 
 * **Universal physiological representation learning with soft-disentangled rateless autoencoders**\\
   M. Han, <b>O. Özdenizci</b>, T. Koike-Akino, Y. Wang, D. Erdoğmuş,\\
@@ -144,4 +144,4 @@ author_profile: true
 
 * **Neurofeedback Training via Brain-Computer Interfaces for Motor Learning Performance**\\
   <b>O. Özdenizci</b>,\\
-  *BSc. Senior Project*, Sabancı University, Istanbul, Turkey, June 2014. [<a href="https://pdfs.semanticscholar.org/24c7/af44604767d44659b0bbe001c0fcfeba06e9.pdf">PDF</a>]
+  *BSc. Senior Project*, Sabancı University, Istanbul, Turkey, June 2014.
