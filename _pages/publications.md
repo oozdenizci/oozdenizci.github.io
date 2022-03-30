@@ -11,6 +11,10 @@ author_profile: true
 
 ## 2022
 
+* **Improving robustness against stealthy weight bit-flip attacks by output code matching**\\
+  <b>O. Özdenizci</b>, R. Legenstein,\\
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022.
+
 * **Domain-invariant representation learning from EEG with private encoders**\\
   D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, R. Mikut, A. Schmidt, <b>O. Özdenizci</b>,\\
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Singapore, 2022. [<a href="https://arxiv.org/pdf/2201.11613.pdf">PDF</a>]

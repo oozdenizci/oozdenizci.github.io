@@ -15,6 +15,8 @@ Before joining TU Graz, I received my Ph.D. degree in 2020 from [Northeastern Un
 
 ## News
 
+* [March 2022] - New paper accepted at CVPR 2022 for an oral presentation! \\
+O. Özdenizci, R. Legenstein, "Improving robustness against stealthy weight bit-flip attacks by output code matching", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
 * [March 2022] - Organizing a Research Topic as a Guest Editor at Frontiers in Signal Processing: "Adversarial machine learning and domain generalization in neurophysiological signal analysis" [[Call for Papers](https://www.frontiersin.org/research-topics/33660/adversarial-machine-learning-and-domain-generalization-in-neurophysiological-signal-analysis)]
 * [January 2022] - New paper accepted at ICASSP 2022! [[PDF](https://arxiv.org/pdf/2201.11613.pdf)]\\
 D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, R. Mikut, A. Schmidt, O. Özdenizci, "Domain-invariant representation learning from EEG with private encoders", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.
