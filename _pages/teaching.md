@@ -14,7 +14,7 @@ Teaching
 Graduate course, Faculty of Computer Science and Biomedical Engineering\\
 Graz University of Technology, Graz, Austria
 
-* **Autonomously Learning Systems** (KU), Co-Instructor (<a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=259832">WS21</a>)\\
+* **Reinforcement Learning** (KU), Co-Instructor (<a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=259832">WS21</a>)\\
 Graduate course, Faculty of Computer Science and Biomedical Engineering\\
 Graz University of Technology, Graz, Austria
 
