@@ -16,8 +16,8 @@ author_profile: true
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. [<a href="https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/OutputCodeMatching">Code</a>]
 
 * **Exploiting multiple EEG data domains with adversarial learning**\\
-  D. Bethge, P. Hallgarten, <b>O. Özdenizci</b>, R. Mikut, T. Grosse-Puppendahl, A. Schmidt, \\
-  *IEEE Engineering in Medicine and Biology Conference (EMBC)*, Glasgow, Scotland, UK, 2022.
+  D. Bethge, P. Hallgarten, <b>O. Özdenizci</b>, R. Mikut, A. Schmidt, T. Grosse-Puppendahl, \\
+  *IEEE Engineering in Medicine and Biology Conference (EMBC)*, Glasgow, Scotland, UK, 2022. [<a href="https://arxiv.org/pdf/2204.07777.pdf">PDF</a>]
   
 * **Domain-invariant representation learning from EEG with private encoders**\\
   D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, R. Mikut, A. Schmidt, <b>O. Özdenizci</b>,\\
