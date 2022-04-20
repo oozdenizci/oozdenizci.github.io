@@ -15,12 +15,12 @@ Before joining TU Graz, I received my Ph.D. degree in 2020 from [Northeastern Un
 
 ## News
 
-* [04/2022] - Listed among the Highlighted Reviewers in <b>ICLR 2022</b>!
+* [04/2022] - Listed among the Highlighted Reviewers at <b>ICLR 2022</b>!
 * [03/2022] - New paper accepted at <b>CVPR 2022</b> for an oral presentation! [[PDF](https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf) / [Code](https://github.com/IGITUGraz/OutputCodeMatching)]\\
 Ozan Özdenizci and Robert Legenstein, "Improving robustness against stealthy weight bit-flip attacks by output code matching", CVPR 2022.
 * [03/2022] - Organizing a Research Topic as a Guest Editor cross-listed at Frontiers in Signal Processing, Frontiers in Neuroinformatics and Frontiers in Artificial Intelligence: "Adversarial machine learning and domain generalization in neurophysiological signal analysis" [[Call for Participation](https://www.frontiersin.org/research-topics/33660/adversarial-machine-learning-and-domain-generalization-in-neurophysiological-signal-analysis)]
 * [01/2022] - New paper accepted at <b>ICASSP 2022</b>! [[PDF](https://arxiv.org/pdf/2201.11613.pdf) / [Code](https://github.com/philipph77/DAPE-Framework)]
-* [10/2021] - Received an Outstanding Reviewer Award (top 8% of reviewers) in <b>NeurIPS 2021</b>!
+* [10/2021] - Received an Outstanding Reviewer Award (top 8%) in <b>NeurIPS 2021</b>!
 * [07/2021] - Presented our work on sparse adversarial training of deep neural networks at <b>ICML 2021</b>. [Spotlight](https://icml.cc/virtual/2021/poster/8563) talk and [poster](files/OzdenizciLegenstein_ICML2021_Poster.pdf) are available online.
 * [05/2021] - New paper accepted at <b>ICML 2021</b>! [[PDF](http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf) / [Code](https://github.com/IGITUGraz/SparseAdversarialTraining)]\\
 Ozan Özdenizci and Robert Legenstein, "Training adversarially robust sparse networks via Bayesian connectivity sampling", ICML 2021.
