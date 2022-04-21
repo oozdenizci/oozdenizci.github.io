@@ -15,7 +15,7 @@ Before joining TU Graz, I received my Ph.D. degree in 2020 from [Northeastern Un
 
 ## News
 
-* [04/2022] - Listed among the Highlighted Reviewers at <b>ICLR 2022</b>!
+* [04/2022] - Listed among the Highlighted Reviewers (top 10%) at <b>ICLR 2022</b>!
 * [03/2022] - New paper accepted at <b>CVPR 2022</b> for an oral presentation! [[PDF](https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf) / [Code](https://github.com/IGITUGraz/OutputCodeMatching)]\\
 Ozan Özdenizci and Robert Legenstein, "Improving robustness against stealthy weight bit-flip attacks by output code matching", CVPR 2022.
 * [03/2022] - Organizing a Research Topic as a Guest Editor cross-listed at Frontiers in Signal Processing, Frontiers in Neuroinformatics and Frontiers in Artificial Intelligence: "Adversarial machine learning and domain generalization in neurophysiological signal analysis" [[Call for Participation](https://www.frontiersin.org/research-topics/33660/adversarial-machine-learning-and-domain-generalization-in-neurophysiological-signal-analysis)]
