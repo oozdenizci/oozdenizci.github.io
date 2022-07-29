@@ -15,6 +15,10 @@ author_profile: true
   <b>O. Özdenizci</b>, R. Legenstein,\\
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. [<a href="https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/OutputCodeMatching">Code</a>]
 
+* **EEG2Vec: Learning affective EEG representations via variational autoencoders**\\
+  D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, L Chuang, <b>O. Özdenizci</b>, A. Schmidt, \\
+  *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Prague, Czech Republic, 2022. [<a href="https://arxiv.org/pdf/2207.08002.pdf">PDF</a>]
+    
 * **Exploiting multiple EEG data domains with adversarial learning**\\
   D. Bethge, P. Hallgarten, <b>O. Özdenizci</b>, R. Mikut, A. Schmidt, T. Grosse-Puppendahl, \\
   *IEEE Engineering in Medicine and Biology Conference (EMBC)*, Glasgow, Scotland, UK, 2022. [<a href="https://arxiv.org/pdf/2204.07777.pdf">PDF</a>]

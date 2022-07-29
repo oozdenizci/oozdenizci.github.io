@@ -15,6 +15,7 @@ Before joining TU Graz, I received my Ph.D. degree in 2020 from [Northeastern Un
 
 ## News
 
+* [07/2022] - Received an Outstanding Reviewer Award (top 10%) at <b>ICML 2022</b>!
 * [04/2022] - Listed among the Highlighted Reviewers (top 10%) at <b>ICLR 2022</b>!
 * [03/2022] - New paper accepted at <b>CVPR 2022</b> for an oral presentation! [[PDF](https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf) / [Code](https://github.com/IGITUGraz/OutputCodeMatching)]\\
 Ozan Özdenizci and Robert Legenstein, "Improving robustness against stealthy weight bit-flip attacks by output code matching", CVPR 2022.
