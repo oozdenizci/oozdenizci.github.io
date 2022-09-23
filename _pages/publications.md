@@ -9,6 +9,16 @@ author_profile: true
 
 <!--You can find a complete list my publications on <u><a href="https://scholar.google.at/citations?user=419WltwAAAAJ">my Google Scholar profile</a>.</u>-->
 
+## Preprints
+
+* **Restoring vision in adverse weather conditions with patch-based denoising diffusion models**\\
+  <b>O. Özdenizci</b>, R. Legenstein,\\
+  *arXiv preprint arXiv:2207.14626*, 2022. [<a href="https://arxiv.org/pdf/2207.14626.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/WeatherDiffusion">Code</a>]
+
+* **Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity**\\
+  T. Limbacher, <b>O. Özdenizci</b>, R. Legenstein,\\
+  *arXiv preprint arXiv:2205.11276*, 2022. [<a href="https://arxiv.org/pdf/2205.11276.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/MemoryDependentComputation">Code</a>]
+
 ## 2022
 
 * **Improving robustness against stealthy weight bit-flip attacks by output code matching**\\
