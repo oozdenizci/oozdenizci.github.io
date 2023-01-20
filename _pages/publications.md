@@ -11,13 +11,15 @@ author_profile: true
 
 ## Preprints
 
-* **Restoring vision in adverse weather conditions with patch-based denoising diffusion models**\\
-  <b>O. Özdenizci</b>, R. Legenstein,\\
-  *arXiv preprint arXiv:2207.14626*, 2022. [<a href="https://arxiv.org/pdf/2207.14626.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/WeatherDiffusion">Code</a>]
-
 * **Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity**\\
   T. Limbacher, <b>O. Özdenizci</b>, R. Legenstein,\\
   *arXiv preprint arXiv:2205.11276*, 2022. [<a href="https://arxiv.org/pdf/2205.11276.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/MemoryDependentComputation">Code</a>]
+
+## 2023
+
+* **Restoring vision in adverse weather conditions with patch-based denoising diffusion models**\\
+  <b>O. Özdenizci</b>, R. Legenstein,\\
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023. [<a href="https://arxiv.org/pdf/2207.14626.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/WeatherDiffusion">Code</a>]
 
 ## 2022
 
@@ -61,13 +63,13 @@ author_profile: true
 
 ## 2020
 
-* **Disentangled adversarial autoencoder for subject-invariant physiological feature extraction**\\
-  M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,\\
-  *IEEE Signal Processing Letters*, vol 27, pp 1565-1569, 2020. [<a href="https://arxiv.org/pdf/2008.11426">PDF</a>]
-
 * **Learning invariant representations from EEG via adversarial inference**\\
   <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,\\
   *IEEE Access*, vol 8, pp 27074-27085, 2020. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8981912">PDF</a> / <a href="https://github.com/oozdenizci/AdversarialEEGDecoding">Code</a>]
+
+* **Disentangled adversarial autoencoder for subject-invariant physiological feature extraction**\\
+  M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,\\
+  *IEEE Signal Processing Letters*, vol 27, pp 1565-1569, 2020. [<a href="https://arxiv.org/pdf/2008.11426">PDF</a>]
 
 * **Disentangled adversarial transfer learning for physiological biosignals**\\
   M. Han, <b>O. Özdenizci</b>, Y. Wang, T. Koike-Akino, D. Erdoğmuş,\\

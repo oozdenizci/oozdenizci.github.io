@@ -15,6 +15,9 @@ Before joining TU Graz, I received my Ph.D. degree in 2020 from [Northeastern Un
 
 ## News
 
+* [01/2023] - New paper published at <b>IEEE TPAMI 2023</b>! [[PDF](https://arxiv.org/pdf/2207.14626.pdf) / [Code](https://github.com/IGITUGraz/WeatherDiffusion)]\\
+Ozan Özdenizci and Robert Legenstein, "Restoring vision in adverse weather conditions with patch-based denoising diffusion models", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
+* [07/2022] - Received an Outstanding Reviewer Award (top 10%) at <b>ICML 2022</b>!
 * [07/2022] - Received an Outstanding Reviewer Award (top 10%) at <b>ICML 2022</b>!
 * [04/2022] - Listed among the Highlighted Reviewers (top 10%) at <b>ICLR 2022</b>!
 * [03/2022] - New paper accepted at <b>CVPR 2022</b> for an oral presentation! [[PDF](https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf) / [Code](https://github.com/IGITUGraz/OutputCodeMatching)]\\
