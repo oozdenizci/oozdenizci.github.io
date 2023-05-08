@@ -19,13 +19,13 @@ author_profile: true
 
 * **Restoring vision in adverse weather conditions with patch-based denoising diffusion models**\\
   <b>O. Özdenizci</b>, R. Legenstein,\\
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023. [<a href="https://arxiv.org/pdf/2207.14626.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/WeatherDiffusion">Code</a>]
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023. [<a href="https://arxiv.org/pdf/2207.14626.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/WeatherDiffusion">Code</a> / [Slides](/files/OzanOzdenizci_TPAMI2023_Talk.pdf)]
 
 ## 2022
 
 * **Improving robustness against stealthy weight bit-flip attacks by output code matching**\\
   <b>O. Özdenizci</b>, R. Legenstein,\\
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. [<a href="https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/OutputCodeMatching">Code</a>]
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. [<a href="https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/OutputCodeMatching">Code</a> / [Slides](/files/OzanOzdenizci_CVPR2022_Talk.pdf)]
 
 * **EEG2Vec: Learning affective EEG representations via variational autoencoders**\\
   D. Bethge, P. Hallgarten, T. Grosse-Puppendahl, M. Kari, L Chuang, <b>O. Özdenizci</b>, A. Schmidt, \\
@@ -43,7 +43,7 @@ author_profile: true
 
 * **Training adversarially robust sparse networks via Bayesian connectivity sampling**\\
   <b>O. Özdenizci</b>, R. Legenstein,\\
-  *International Conference on Machine Learning (ICML)*, 2021. [<a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a> / <a href="https://icml.cc/virtual/2021/poster/8563">Talk</a> / [Poster](/files/OzdenizciLegenstein_ICML2021_Poster.pdf)]
+  *International Conference on Machine Learning (ICML)*, 2021. [<a href="http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/SparseAdversarialTraining">Code</a> / <a href="https://icml.cc/virtual/2021/poster/8563">Talk</a> / [Slides](/files/OzanOzdenizci_ICML2021_Talk.pdf) / [Poster](/files/OzdenizciLegenstein_ICML2021_Poster.pdf)]
 
 * **Universal physiological representation learning with soft-disentangled rateless autoencoders**\\
   M. Han, <b>O. Özdenizci</b>, T. Koike-Akino, Y. Wang, D. Erdoğmuş,\\
