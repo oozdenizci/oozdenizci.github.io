@@ -21,6 +21,10 @@ author_profile: true
   <b>O. Özdenizci</b>, R. Legenstein,\\
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023. [<a href="https://arxiv.org/pdf/2207.14626.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/WeatherDiffusion">Code</a> / [Slides](/files/OzanOzdenizci_TPAMI2023_Talk.pdf)]
 
+* **TS-MoCo: Time-series momentum contrast for self-supervised physiological representation learning**\\
+  P. Hallgarten, D. Bethge, <b>O. Özdenizci</b>, T. Grosse-Puppendahl, E. Kasneci, \\
+  *31st European Signal Processing Conference (EUSIPCO)*, Helsinki, Finland, 2023. [<a href="https://arxiv.org/pdf/2306.06522.pdf">PDF</a>]
+  
 ## 2022
 
 * **Improving robustness against stealthy weight bit-flip attacks by output code matching**\\

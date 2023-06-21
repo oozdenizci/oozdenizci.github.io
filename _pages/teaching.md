@@ -10,11 +10,11 @@ author_profile: true
 
 Teaching
 ======
-* **Deep Learning** (KU), Co-Instructor (<a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=244749">WS20</a>, <a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=257660">WS21</a>)\\
+* **Deep Learning** (KU), Co-Instructor (<a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=244749">WS20</a>, <a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=257660">WS21</a>, <a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336434">WS22</a>)\\
 Graduate course, Faculty of Computer Science and Biomedical Engineering\\
 Graz University of Technology, Graz, Austria
 
-* **Reinforcement Learning** (KU), Co-Instructor (<a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=259832">WS21</a>)\\
+* **Reinforcement Learning** (KU), Co-Instructor (<a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=259832">WS21</a>, <a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=337637">WS22</a>)\\
 Graduate course, Faculty of Computer Science and Biomedical Engineering\\
 Graz University of Technology, Graz, Austria
 
