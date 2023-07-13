@@ -21,6 +21,14 @@ author_profile: true
   <b>O. Özdenizci</b>, R. Legenstein,\\
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023. [<a href="https://arxiv.org/pdf/2207.14626.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/WeatherDiffusion">Code</a> / [Slides](/files/OzanOzdenizci_TPAMI2023_Talk.pdf)]
 
+* **Interaction of generalization and out-of-distribution detection capabilities in deep neural networks**\\
+  F. J. Klaiber Aboitiz, R. Legenstein, <b>O. Özdenizci</b>, \\
+  *32nd International Conference on Artificial Neural Networks (ICANN)*,  Crete, Greece, 2023.
+  
+* **Generating conceptual architectural 3D geometries with denoising diffusion models**\\
+  A. Sebestyen,  <b>O. Özdenizci</b>, R. Legenstein, U. Hirschberg, \\
+  *41st Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe)*,  Graz, Austria, 2023.
+ 
 * **TS-MoCo: Time-series momentum contrast for self-supervised physiological representation learning**\\
   P. Hallgarten, D. Bethge, <b>O. Özdenizci</b>, T. Grosse-Puppendahl, E. Kasneci, \\
   *31st European Signal Processing Conference (EUSIPCO)*, Helsinki, Finland, 2023. [<a href="https://arxiv.org/pdf/2306.06522.pdf">PDF</a>]
