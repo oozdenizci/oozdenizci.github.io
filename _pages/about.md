@@ -16,7 +16,7 @@ Before joining TU Graz, I received my Ph.D. degree from [Northeastern University
 ## News
 
 * [11/2023] - Listed among the Top Reviewers (top 10%) at <b>NeurIPS 2023</b>!
-* [07/2023] - Became an [ELLIS](https://ellis.eu) member and a member of the [ELLIS Unit Graz]((https://ellis.eu/units/graz).
+* [07/2023] - Became an [ELLIS](https://ellis.eu) member and a member of the [ELLIS Unit Graz](https://ellis.eu/units/graz).
 * [06/2023] - Invited talk at the [Austrian Computer Science Day 2023](https://acsd2023.iaik.tugraz.at/), titled: "Building Robustness into Embedded Machine Intelligence".
 * [01/2023] - New paper published at <b>IEEE TPAMI 2023</b>! [[PDF](https://arxiv.org/pdf/2207.14626.pdf) / [Code](https://github.com/IGITUGraz/WeatherDiffusion) / [Slides](files/OzanOzdenizci_TPAMI2023_Talk.pdf)]\\
 Ozan Özdenizci and Robert Legenstein, "Restoring vision in adverse weather conditions with patch-based denoising diffusion models", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
