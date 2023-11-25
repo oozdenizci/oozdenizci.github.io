@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral university assistant at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, Austria, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I am also co-affiliated with the [TU Graz - SAL Dependable Embedded Systems Lab](https://research-network.silicon-austria.com/des-lab/), Silicon Austria Labs, Graz, Austria. My research is focused in the domain of robust machine learning for reliable artificial intelligence systems, and statistical signal processing with biomedical applications.
+I am a postdoctoral researcher at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, Austria, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I am also co-affiliated with the [TU Graz - SAL Dependable Embedded Systems Lab](https://research-network.silicon-austria.com/des-lab/), Silicon Austria Labs, Graz, Austria. My research is focused in the domain of robust, secure and efficient deep learning for reliable artificial intelligence systems, and statistical signal processing with biomedical applications.
 
-Before joining TU Graz, I received my Ph.D. degree in 2020 from [Northeastern University](https://www.northeastern.edu), Boston, MA, USA, under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/). Prior to that, I obtained my MSc. and BSc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/), Istanbul, Turkey, under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
+Before joining TU Graz, I received my Ph.D. degree from [Northeastern University](https://www.northeastern.edu), Boston, MA, USA, under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/). Prior to that, I obtained my MSc. and BSc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/), Istanbul, Turkey, under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
 
 
 ## News
 
+* [11/2023] - Listed among the Top Reviewers (top 10%) at <b>NeurIPS 2023</b>!
+* [07/2023] - Became an [ELLIS](https://ellis.eu) member and a member of the [ELLIS Unit Graz]((https://ellis.eu/units/graz).
 * [06/2023] - Invited talk at the [Austrian Computer Science Day 2023](https://acsd2023.iaik.tugraz.at/), titled: "Building Robustness into Embedded Machine Intelligence".
 * [01/2023] - New paper published at <b>IEEE TPAMI 2023</b>! [[PDF](https://arxiv.org/pdf/2207.14626.pdf) / [Code](https://github.com/IGITUGraz/WeatherDiffusion) / [Slides](files/OzanOzdenizci_TPAMI2023_Talk.pdf)]\\
 Ozan Özdenizci and Robert Legenstein, "Restoring vision in adverse weather conditions with patch-based denoising diffusion models", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.

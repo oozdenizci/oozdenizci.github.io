@@ -11,6 +11,10 @@ author_profile: true
 
 ## Preprints
 
+* **Adversarially robust spiking neural networks through conversion**\\
+  <b>O. Özdenizci</b>, R. Legenstein,\\
+  *arXiv preprint arXiv:2311.09266*, 2023. [<a href="https://arxiv.org/pdf/2311.09266.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/RobustSNNConversion">Code</a>]
+
 * **Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity**\\
   T. Limbacher, <b>O. Özdenizci</b>, R. Legenstein,\\
   *arXiv preprint arXiv:2205.11276*, 2022. [<a href="https://arxiv.org/pdf/2205.11276.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/MemoryDependentComputation">Code</a>]
@@ -23,11 +27,11 @@ author_profile: true
 
 * **Interaction of generalization and out-of-distribution detection capabilities in deep neural networks**\\
   F. J. Klaiber Aboitiz, R. Legenstein, <b>O. Özdenizci</b>, \\
-  *32nd International Conference on Artificial Neural Networks (ICANN)*,  Crete, Greece, 2023.
-  
+  *32nd International Conference on Artificial Neural Networks (ICANN)*,  Crete, Greece, 2023. [<a href="https://link.springer.com/content/pdf/10.1007/978-3-031-44204-9_21.pdf?pdf=inline%20link">PDF</a>]
+    
 * **Generating conceptual architectural 3D geometries with denoising diffusion models**\\
   A. Sebestyen,  <b>O. Özdenizci</b>, R. Legenstein, U. Hirschberg, \\
-  *41st Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe)*,  Graz, Austria, 2023.
+  *41st Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe)*,  Graz, Austria, 2023. [<a href="  https://papers.cumincad.org/data/works/att/ecaade2023_250.pdf">PDF</a>]
  
 * **TS-MoCo: Time-series momentum contrast for self-supervised physiological representation learning**\\
   P. Hallgarten, D. Bethge, <b>O. Özdenizci</b>, T. Grosse-Puppendahl, E. Kasneci, \\
