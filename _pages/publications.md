@@ -15,15 +15,15 @@ author_profile: true
   <b>O. Özdenizci</b>, R. Legenstein,\\
   *arXiv preprint arXiv:2311.09266*, 2023. [<a href="https://arxiv.org/pdf/2311.09266.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/RobustSNNConversion">Code</a>]
 
-* **Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity**\\
-  T. Limbacher, <b>O. Özdenizci</b>, R. Legenstein,\\
-  *arXiv preprint arXiv:2205.11276*, 2022. [<a href="https://arxiv.org/pdf/2205.11276.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/MemoryDependentComputation">Code</a>]
-
 ## 2023
 
 * **Restoring vision in adverse weather conditions with patch-based denoising diffusion models**\\
   <b>O. Özdenizci</b>, R. Legenstein,\\
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023. [<a href="https://arxiv.org/pdf/2207.14626.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/WeatherDiffusion">Code</a> / [Slides](/files/OzanOzdenizci_TPAMI2023_Talk.pdf)]
+
+* **Memory-dependent computation and learning in spiking neural networks through Hebbian plasticity**\\
+  T. Limbacher, <b>O. Özdenizci</b>, R. Legenstein,\\
+  *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365548">PDF</a> / <a href="https://github.com/IGITUGraz/MemoryDependentComputation">Code</a>]
 
 * **Interaction of generalization and out-of-distribution detection capabilities in deep neural networks**\\
   F. J. Klaiber Aboitiz, R. Legenstein, <b>O. Özdenizci</b>, \\

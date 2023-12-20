@@ -15,6 +15,8 @@ Before joining TU Graz, I received my Ph.D. degree from [Northeastern University
 
 ## News
 
+* [12/2023] - New paper published at <b>IEEE TNNLS 2023</b>! [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365548) / [Code](https://github.com/IGITUGraz/MemoryDependentComputation)]\\
+Thomas Limbacher, Ozan Özdenizci and Robert Legenstein, "Memory-dependent computation and learning in spiking neural networks through Hebbian plasticity", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.
 * [11/2023] - Listed among the Top Reviewers (top 10%) at <b>NeurIPS 2023</b>!
 * [07/2023] - Became an [ELLIS](https://ellis.eu) member and a member of the [ELLIS Unit Graz](https://ellis.eu/units/graz).
 * [06/2023] - Invited talk at the [Austrian Computer Science Day 2023](https://acsd2023.iaik.tugraz.at/), titled: "Building Robustness into Embedded Machine Intelligence".
