@@ -10,13 +10,13 @@ redirect_from:
 
 I am a research group leader at the [Chair of Cyber-Physical-Systems](https://cps.unileoben.ac.at) at the Montanuniversität Leoben in Austria, since April 2024. My research is focused in the domain of robust, secure and efficient deep learning algorithms for reliable artificial intelligence systems, and statistical signal processing with biomedical applications.
 
-Prior to joining CPS, I was a postdoctoral researcher at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I received my Ph.D. degree from [Northeastern University](https://www.northeastern.edu) (Boston, MA, USA) under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/), and my M.Sc. and B.Sc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/) (Istanbul, Turkey) under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
+Prior to joining MU Leoben, I was a postdoctoral researcher at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I received my Ph.D. degree from [Northeastern University](https://www.northeastern.edu) (Boston, MA, USA) under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/), and my M.Sc. and B.Sc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/) (Istanbul, Turkey) under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
 
 ## News
 
 * [04/2024] - New paper published at <b>TMLR 2024</b>! [[PDF](https://openreview.net/pdf?id=I8FMYa2BdP) / [Code](https://github.com/IGITUGraz/RobustSNNConversion)]\\
 Ozan Özdenizci and Robert Legenstein, "Adversarially robust spiking neural networks through conversion", Transactions on Machine Learning Research (TMLR), 2024.
-* [04/2024] - Started as an independent research group leader at the Chair of Cyber-Physical-Systems of Montanuniversität Leoben.
+* [04/2024] - Started as a research group leader at the Chair of Cyber-Physical-Systems at Montanuniversität Leoben!
 * [12/2023] - New paper published at <b>IEEE TNNLS 2023</b>! [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365548) / [Code](https://github.com/IGITUGraz/MemoryDependentComputation)]\\
 Thomas Limbacher, Ozan Özdenizci and Robert Legenstein, "Memory-dependent computation and learning in spiking neural networks through Hebbian plasticity", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.
 * [11/2023] - Listed among the Top Reviewers (top 10%) at <b>NeurIPS 2023</b>!

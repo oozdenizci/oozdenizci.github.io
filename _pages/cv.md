@@ -20,7 +20,7 @@ Experience
 ======
 * *Apr 2024 - present*\\
 Research Group Leader\\
-[Chair of Cyber-Physical-Systems](https://cps.unileoben.ac.at), Montanuniversität Leoben, Austria \\
+[Chair of Cyber-Physical-Systems](https://cps.unileoben.ac.at), Montanuniversität Leoben, Austria
 
 * *Aug 2020 - Mar 2024*\\
 Postdoctoral University Assistant\\
