@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research group leader at the [Chair of Cyber-Physical-Systems](https://cps.unileoben.ac.at) at the Montanuniversität Leoben in Austria, since April 2024. My research is focused in the domain of robust, secure and efficient deep learning algorithms for reliable artificial intelligence systems, and statistical signal processing with biomedical applications.
+I am a research group leader at the [Chair of Cyber-Physical-Systems](https://cps.unileoben.ac.at) at Montanuniversität Leoben in Austria, since April 2024. My research is focused in the domain of robust, secure and efficient deep learning algorithms for reliable artificial intelligence systems, and statistical signal processing with biomedical applications.
 
 Prior to joining MU Leoben, I was a postdoctoral researcher at the [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, working with [Prof. Robert Legenstein](https://www.tugraz.at/en/institutes/igi/people/prof-legenstein/). I received my Ph.D. degree from [Northeastern University](https://www.northeastern.edu) (Boston, MA, USA) under supervision of [Prof. Deniz Erdoğmuş](https://web.northeastern.edu/deniz/), and my M.Sc. and B.Sc. degrees from [Sabancı University](https://www.sabanciuniv.edu/en/) (Istanbul, Turkey) under supervision of [Prof. Müjdat Çetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
 
@@ -37,7 +37,8 @@ Ozan Özdenizci and Robert Legenstein, "Training adversarially robust sparse net
 
 ## Contact
 
-Inffeldgasse 16b/I\
-Room IC01116\
-8010, Graz, Austria\
-Email: oezdenizci(at)tugraz.at
+Chair of Cyber-Physical-Systems\
+Montanuniversität Leoben\
+Franz-Josef-Straße 18\
+8700 Leoben, Austria\
+Email: ozan.oezdenizci(at)unileoben.ac.at
