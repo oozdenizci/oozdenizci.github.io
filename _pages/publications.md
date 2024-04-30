@@ -9,11 +9,11 @@ author_profile: true
 
 <!--You can find a complete list my publications on <u><a href="https://scholar.google.at/citations?user=419WltwAAAAJ">my Google Scholar profile</a>.</u>-->
 
-## Preprints
+## 2024
 
 * **Adversarially robust spiking neural networks through conversion**\\
   <b>O. Özdenizci</b>, R. Legenstein,\\
-  *arXiv preprint arXiv:2311.09266*, 2023. [<a href="https://arxiv.org/pdf/2311.09266.pdf">PDF</a> / <a href="https://github.com/IGITUGraz/RobustSNNConversion">Code</a>]
+  *Transactions on Machine Learning Research (TMLR)*, 2024. [<a href="https://openreview.net/pdf?id=I8FMYa2BdP">PDF</a> / <a href="https://github.com/IGITUGraz/RobustSNNConversion">Code</a>]
 
 ## 2023
 

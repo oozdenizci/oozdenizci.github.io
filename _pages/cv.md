@@ -18,7 +18,11 @@ Education
 
 Experience
 ======
-* *Aug 2020 - Present*\\
+* *Apr 2024 - present*\\
+Research Group Leader\\
+[Chair of Cyber-Physical-Systems](https://cps.unileoben.ac.at), Montanuniversität Leoben, Austria \\
+
+* *Aug 2020 - Mar 2024*\\
 Postdoctoral University Assistant\\
 [Institute of Theoretical Computer Science](https://www.tugraz.at/en/institutes/igi/home/), Graz University of Technology, Austria\\
 [TU Graz - SAL Dependable Embedded Systems Lab](https://research-network.silicon-austria.com/des-lab/), Silicon Austria Labs, Graz, Austria
