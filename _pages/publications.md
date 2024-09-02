@@ -15,6 +15,14 @@ author_profile: true
   <b>O. Özdenizci</b>, R. Legenstein,\\
   *Transactions on Machine Learning Research (TMLR)*, 2024. [<a href="https://openreview.net/pdf?id=I8FMYa2BdP">PDF</a> / <a href="https://github.com/IGITUGraz/RobustSNNConversion">Code</a>]
 
+* **Preserving real-world robustness of neural networks under sparsity constraints**\\
+  J. V. Gritsch, R. Legenstein, <b>O. Özdenizci</b>,\\
+  *European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD)*, 2024. [<a href="https://link.springer.com/content/pdf/10.1007/978-3-031-70362-1_20.pdf?pdf=inline%20link">PDF</a> / <a href="https://github.com/IGITUGraz/RobustModelCompression">Code</a>]
+
+* **AI-Infused Design: Merging parametric models for architectural design**\\
+  A. Sebestyen,  <b>O. Özdenizci</b>, R. Legenstein, U. Hirschberg, \\
+  *42nd Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe)*, Nicosia, Cyprus, 2024.
+ 
 ## 2023
 
 * **Restoring vision in adverse weather conditions with patch-based denoising diffusion models**\\
