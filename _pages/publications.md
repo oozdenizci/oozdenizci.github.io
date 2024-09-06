@@ -21,7 +21,7 @@ author_profile: true
 
 * **AI-Infused Design: Merging parametric models for architectural design**\\
   A. Sebestyen,  <b>O. Özdenizci</b>, R. Legenstein, U. Hirschberg, \\
-  *42nd Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe)*, Nicosia, Cyprus, 2024.
+  *42nd Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe)*, Nicosia, Cyprus, 2024. [<a href="  https://papers.cumincad.org/data/works/att/ecaade2024_300.pdf">PDF</a>]
  
 ## 2023
 
