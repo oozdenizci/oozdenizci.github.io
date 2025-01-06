@@ -10,6 +10,10 @@ author_profile: true
 
 Teaching
 ======
+* **Advanced Machine and Deep Learning** (IV), Instructor (<a href="https://online.unileoben.ac.at/mu_online/pl/ui/$ctx;design=pl;header=max;lang=EN/wbLv.wbShowLVDetail?pStpSpNr=3223405">WS24</a>)\\
+Graduate course, Chair of Cyber-Physical-Systems\\
+Montanuniversität Leoben, Leoben, Austria
+
 * **Deep Learning** (VO), Instructor (<a href="https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=407796">WS23</a>)\\
 Graduate course, Faculty of Computer Science and Biomedical Engineering\\
 Graz University of Technology, Graz, Austria
