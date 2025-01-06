@@ -14,6 +14,7 @@ Prior to joining MU Leoben, I was a postdoctoral researcher at the [Institute of
 
 ## News
 
+* [12/2024] - I will be serving as Area Chair for <b>ICML 2025</b>.
 * [09/2024] - New paper published at <b>ECML-PKDD 2024</b>. [[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-70362-1_20.pdf?pdf=inline%20link) / [Code](https://github.com/IGITUGraz/RobustModelCompression)]\\
 Jasmin Viktoria Gritsch, Robert Legenstein and Ozan Özdenizci, "Preserving real-world robustness of neural networks under sparsity constraints", European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2024.
 * [04/2024] - New paper published at <b>TMLR 2024</b>. [[PDF](https://openreview.net/pdf?id=I8FMYa2BdP) / [Code](https://github.com/IGITUGraz/RobustSNNConversion)]\\
