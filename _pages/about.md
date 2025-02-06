@@ -14,6 +14,8 @@ Prior to joining MU Leoben, I was a postdoctoral researcher at the [Institute of
 
 ## News
 
+* [01/2025] - New paper published at <b>ICLR 2025</b>. [[PDF](https://openreview.net/pdf?id=UstOpZCESc) / [Code](https://github.com/oozdenizci/PALL)]\\
+Ozan Özdenizci, Elmar Rueckert and Robert Legenstein, "Privacy-aware lifelong learning", International Conference on Learning Representations (ICLR), 2025.
 * [12/2024] - I will be serving as Area Chair for <b>ICML 2025</b>.
 * [09/2024] - New paper published at <b>ECML-PKDD 2024</b>. [[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-70362-1_20.pdf?pdf=inline%20link) / [Code](https://github.com/IGITUGraz/RobustModelCompression)]\\
 Jasmin Viktoria Gritsch, Robert Legenstein and Ozan Özdenizci, "Preserving real-world robustness of neural networks under sparsity constraints", European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2024.

@@ -9,6 +9,12 @@ author_profile: true
 
 <!--You can find a complete list my publications on <u><a href="https://scholar.google.at/citations?user=419WltwAAAAJ">my Google Scholar profile</a>.</u>-->
 
+## 2025
+
+* **Privacy-aware lifelong learning**\\
+  <b>O. Özdenizci</b>, E. Rueckert, R. Legenstein,\\
+  *International Conference on Learning Representations (ICLR)*, 2025. [<a href="https://openreview.net/pdf?id=UstOpZCESc">PDF</a> / <a href="https://github.com/oozdenizci/PALL">Code</a>]
+  
 ## 2024
 
 * **Adversarially robust spiking neural networks through conversion**\\
