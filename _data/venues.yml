@@ -1,9 +1,48 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ICML":
+  url: https://icml.cc/
+  color: "#a3075f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICLR":
+  url: https://iclr.cc/
+  color: "#a35507"
 
-"Vision":
-  color: "#009f36"
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#ab0a63"
+
+"CVPR":
+  url: http://cvpr.thecvf.com
+  color: "#003d9f"
+
+"TPAMI":
+  url: https://www.computer.org/csdl/journal/tp
+  color: "#235206"
+
+"TNNLS":
+  url: https://cis.ieee.org/publications/t-neural-networks-and-learning-systems
+  color: "#174869"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#9f0800"
+
+"CPAL":
+  url: https://cpal.cc/
+  color: "#562482"
+
+"ECML":
+  url: https://ecmlpkdd.org
+  color: "#a39107"
+
+"ICANN":
+  url: https://e-nns.org/icann2023/
+  color: "#b6ba30"
+
+"arXiv":
+  url: https://arxiv.org
+  color: "#A42C25"
+
+"eCAADe":
+  url: https://ecaade.org
+  color: "#368207"
+

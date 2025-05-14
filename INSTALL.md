@@ -1,6 +1,8 @@
-# Installing and Deploying
+# Table of Contents
 
 <!--ts-->
+
+- [Table of Contents](#table-of-contents)
 - [Installing and Deploying](#installing-and-deploying)
   - [Recommended Approach](#recommended-approach)
   - [Local setup on Windows](#local-setup-on-windows)
@@ -18,7 +20,9 @@
     - [Deployment to another hosting server (non GitHub Pages)](#deployment-to-another-hosting-server-non-github-pages)
     - [Deployment to a separate repository (advanced users only)](#deployment-to-a-separate-repository-advanced-users-only)
   - [Upgrading from a previous version](#upgrading-from-a-previous-version)
-<!--te-->
+  <!--te-->
+
+# Installing and Deploying
 
 ## Recommended Approach
 

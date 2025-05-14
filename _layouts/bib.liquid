@@ -184,6 +184,9 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {%- if entry.award %}
+      <div lass="award"><b><span style="color:#9f0800">{{entry.award}}</span></b></div>
+    {%- endif %}
 
     <!-- Links/Buttons -->
     <div class="links">

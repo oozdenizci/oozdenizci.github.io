@@ -1,115 +1,512 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@article{nwankwo2025reli,
+  bibtex_show={false},
+  abbr={arXiv},
+  title={ReLI: A language-agnostic approach to human-robot interaction},
+  abstract={Adapting autonomous agents to industrial, domestic, and other daily tasks is currently gaining momentum. However, in the global or cross-lingual application contexts, ensuring effective interaction with the environment and executing unrestricted human task-specified instructions in diverse languages remains an unsolved problem. To address this challenge, we propose ReLI, a language-agnostic framework designed to enable autonomous agents to converse naturally, semantically reason about the environment, and to perform downstream tasks, regardless of the task instruction's linguistic origin. First, we ground large-scale pre-trained foundation models and transform them into language-to-action models that can directly provide common-sense reasoning and high-level robot control through natural, free-flow human-robot conversational interactions. Further, we perform cross-lingual grounding of the models to ensure that ReLI generalises across the global languages. To demonstrate the ReLI's robustness, we conducted extensive simulated and real-world experiments on various short- and long-horizon tasks, including zero-shot and few-shot spatial navigation, scene information retrieval, and query-oriented tasks. We benchmarked the performance on 140 languages involving over 70K multi-turn conversations. On average, ReLI achieved over 90\% accuracy in cross-lingual instruction parsing and task execution success rates. These results demonstrate the ReLI's potential to enhance natural human-robot interaction in the real world while championing linguistic diversity.},
+  author={Nwankwo, Linus and Ellensohn, Bjoern and Özdenizci, Ozan and Rueckert, Elmar},
+  journal={arXiv preprint arXiv:2505.01862},
+  pdf={https://arxiv.org/pdf/2505.01862},
+  code={https://github.com/LinusNEP/ReLI},
+  year={Preprints}
 }
 
-@book{einstein1956investigations,
+@article{ozdenizci2025privacyaware,
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
+  abbr={ICLR},
+  title={Privacy-aware lifelong learning},
+  abstract={Lifelong learning algorithms enable models to incrementally acquire new knowledge without forgetting previously learned information. Contrarily, the field of machine unlearning focuses on explicitly forgetting certain previous knowledge from pretrained models when requested, in order to comply with data privacy regulations on the right-to-be-forgotten. Enabling efficient lifelong learning with the capability to selectively unlearn sensitive information from models presents a critical and largely unaddressed challenge with contradicting objectives. We address this problem from the perspective of simultaneously preventing catastrophic forgetting and allowing forward knowledge transfer during task-incremental learning, while ensuring exact task unlearning and minimizing memory requirements, based on a single neural network model to be adapted. Our proposed solution, privacy-aware lifelong learning (PALL), involves optimization of task-specific sparse subnetworks with parameter sharing within a single architecture. We additionally utilize an episodic memory rehearsal mechanism to facilitate exact unlearning without performance degradations. We empirically demonstrate the scalability of PALL across various architectures in image classification, and provide a state-of-the-art solution that uniquely integrates lifelong learning and privacy-aware unlearning mechanisms for responsible AI applications.},
+  author={Özdenizci, Ozan and Rueckert, Elmar and Legenstein, Robert},
+  journal={International Conference on Learning Representations (ICLR)},
+  pdf={https://openreview.net/pdf?id=UstOpZCESc},
+  code={https://github.com/oozdenizci/PALL},
   selected={true},
-  inspirehep_id = {3255}
+  year={2025}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
+@article{schmolli2025adversarially,
   bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+  abbr={CPAL},
+  title={Adversarially robust spiking neural networks with sparse connectivity},
+  abstract={Deployment of deep neural networks in resource-constrained embedded systems requires innovative algorithmic solutions to facilitate their energy and memory efficiency. To further ensure the reliability of these systems against malicious actors, recent works have extensively studied adversarial robustness of existing architectures. Our work focuses on the intersection of adversarial robustness, memory- and energy-efficiency in neural networks. We introduce a neural network conversion algorithm designed to produce sparse and adversarially robust spiking neural networks (SNNs) by leveraging the sparse connectivity and weights from a robustly pretrained artificial neural network (ANN). Our approach combines the energy-efficient architecture of SNNs with a novel conversion algorithm, leading to state-of-the-art performance with enhanced energy and memory efficiency through sparse connectivity and activations. Our models are shown to achieve up to 100x reduction in the number of weights to be stored in memory, with an estimated 8.6x increase in energy efficiency compared to dense SNNs, while maintaining high performance and robustness against adversarial threats.},
+  author={Schmolli, Mathias and Baronig, Maximilian and Legenstein, Robert and Özdenizci, Ozan},
+  journal={Conference on Parsimony and Learning (CPAL)},
+  pdf={https://openreview.net/pdf?id=VhCOSdgFl2},
+  year={2025}
 }
 
-@book{przibram1967letters,
+@article{ozdenizci2024adversarially,
   bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+  abbr={TMLR},
+  title={Adversarially robust spiking neural networks through conversion},
+  abstract={Spiking neural networks (SNNs) provide an energy-efficient alternative to a variety of artificial neural network (ANN) based AI applications. As the progress in neuromorphic computing with SNNs expands their use in applications, the problem of adversarial robustness of SNNs becomes more pronounced. To the contrary of the widely explored end-to-end adversarial training based solutions, we address the limited progress in scalable robust SNN training methods by proposing an adversarially robust ANN-to-SNN conversion algorithm. Our method provides an efficient approach to embrace various computationally demanding robust learning objectives that have been proposed for ANNs. During a post-conversion robust finetuning phase, our method adversarially optimizes both layer-wise firing thresholds and synaptic connectivity weights of the SNN to maintain transferred robustness gains from the pre-trained ANN. We perform experimental evaluations in a novel setting proposed to rigorously assess the robustness of SNNs, where numerous adaptive adversarial attacks that account for the spike-based operation dynamics are considered. Results show that our approach yields a scalable state-of-the-art solution for adversarially robust deep SNNs with low-latency.},
+  author={Özdenizci, Ozan and Legenstein, Robert},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  pdf={https://openreview.net/pdf?id=I8FMYa2BdP},
+  code={https://github.com/IGITUGraz/RobustSNNConversion},
+  selected={true},
+  year={2024}
+}
+
+@article{gritsch2024preserving,
+  bibtex_show={true},
+  abbr={ECML},
+  title={Preserving real-world robustness of neural networks under sparsity constraints},
+  abstract={Successful deployment of deep neural networks in physical applications requires various resource constraints and real-world robustness considerations to be simultaneously satisfied. While larger models have been shown to inherently yield robustness, they also come with massive demands in computational power, energy, or memory consumption, which renders them unsuitable to be applied on resource-constrained embedded devices. Our work focuses on practical real-world robustness properties of neural networks under such limitations, particularly with memory-related sparsity constraints. We overcome both challenges by efficiently incorporating state-of-the-art data augmentation methods within the model compression pipeline to maintain robustness. We empirically evaluate various dense models and their pruned counterparts on a comprehensive set of real-world robustness evaluation metrics, including out-of-distribution generalization and resilience against universal adversarial patch attacks. We show that implementing data augmentation strategies only during the pruning and finetuning phases is more critical for robustness of networks under sparsity constraints, than aiming for robustness in pre-training overparameterized dense models in the first place. Results demonstrate that our sparse models obtained via data augmentation driven pruning can even outperform dense models that are end-to-end trained with exhaustive data augmentation.},
+  author={Gritsch, Jasmin Viktoria and Legenstein, Robert and Özdenizci, Ozan},
+  journal={Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD)},
+  pdf={https://link.springer.com/content/pdf/10.1007/978-3-031-70362-1_20.pdf?pdf=inline%20link},
+  code={https://github.com/IGITUGraz/RobustModelCompression},
+  year={2024}
+}
+
+@article{sebestyen2024ai,
+  bibtex_show={true},
+  abbr={eCAADe},
+  title={AI-Infused Design: Merging parametric models for architectural design},
+  abstract={This paper presents ongoing work on developing 3D Generative AI tools based on parametric models to facilitate novel types of Design Space Exploration (DSE) to overcome human biases and expand the range of feasible design solutions. By integrating parametric models and neural networks, the study demonstrates how 3D-mesh based datasets generated from different parametric models can be combined in deep learning to create more diverse design spaces. Specifically, we compare training on the same datasets with an unconditioned Variational Autoencoder (VAE) and with conditioned Denoising Diffusion Models (DDMs). We present a novel approach of mixing DDM design spaces and contrast this method with our previous work using a VAE. The paper compares the outputs of VAE and DDMs, highlighting their respective strengths and weaknesses, and proposes a hybrid generative AI model combining both approaches to harness their complementary advantages.},
+  author={Sebestyen, Adam and Özdenizci, Ozan and Legenstein, Robert and Hirschberg, Urs},
+  journal={42nd Conference on Education and Research in Computer Aided Architectural Design in Europe-Data-Driven Intelligence: eCAADe 2024},
+  pdf={https://papers.cumincad.org/data/works/att/ecaade2024_300.pdf},
+  year={2024}
+}
+
+@article{flatscher2024enhancing,
+  bibtex_show={true},
+  abbr={CNSM},
+  title={Enhancing adversarial robustness of anomaly detection-based IDS in OT environments},
+  abstract={The increasing use of deep learning approaches, particularly generative models such as autoencoders (AEs), as Intrusion Detection Systems (IDS) in cybersecurity, introduces vulnerabilities to adversarial attacks. These attacks involve small, malicious perturbations to input data that can deceive the system, disguising attacks as normal behavior. In this paper, we investigate the susceptibility of an AE-based IDS deployed in an Operational Technology (OT) environment, specifically a water distribution system. We explore various defense strategies to enhance model robustness against adversarial attacks, focusing on increasing the minimal perturbation required to evade detection. Our study examines both adversarial training and sensitivity-based training, comparing their effectiveness in hardening the system against adversarial attacks with different number of features available to the attacker (100\%, 75\%, 50\%, 25\%, 2\%). Results show that while both methods have improved the robustness of the model architecture for some scenarios, no method shows clear improvement on all experiments. This work highlights the importance of adversarial robustness in critical infrastructure protection and provides insights into defense mechanisms for enhancing the security of AE-based IDS systems.},
+  author={Flatscher, Andreas and Stojanović, Branka and Özdenizci, Ozan},
+  journal={20th International Conference on Network and Service Management (CNSM)},
+  pdf={https://ieeexplore.ieee.org/abstract/document/10814511},
+  year={2024}
+}
+
+
+@article{ozdenizci2023restoring,
+  bibtex_show={true},
+  abbr={TPAMI},
+  title={Restoring vision in adverse weather conditions with patch-based denoising diffusion models},
+  abstract={Image restoration under adverse weather conditions has been of significant interest for various computer vision applications. Recent successful methods rely on the current progress in deep neural network architectural designs (e.g., with vision transformers). Motivated by the recent progress achieved with state-of-the-art conditional generative models, we present a novel patch-based image restoration algorithm based on denoising diffusion probabilistic models. Our patch-based diffusion modeling approach enables size-agnostic image restoration by using a guided denoising process with smoothed noise estimates across overlapping patches during inference. We empirically evaluate our model on benchmark datasets for image desnowing, combined deraining and dehazing, and raindrop removal. We demonstrate our approach to achieve state-of-the-art performances on both weather-specific and multi-weather image restoration, and experimentally show strong generalization to real-world test images.},
+  author={Özdenizci, Ozan and Legenstein, Robert},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  pdf={https://arxiv.org/pdf/2207.14626},
+  code={https://github.com/IGITUGraz/WeatherDiffusion},
+  selected={true},
+  year={2023}
+}
+
+@article{limbacher2023memory,
+  bibtex_show={true},
+  abbr={TNNLS},
+  title={Memory-dependent computation and learning in spiking neural networks through Hebbian plasticity},
+  abstract={Spiking neural networks (SNNs) are the basis for many energy-efficient neuromorphic hardware systems. While there has been substantial progress in SNN research, artificial SNNs still lack many capabilities of their biological counterparts. In biological neural systems, memory is a key component that enables the retention of information over a huge range of temporal scales, ranging from hundreds of milliseconds up to years. While Hebbian plasticity is believed to play a pivotal role in biological memory, it has so far been analyzed mostly in the context of pattern completion and unsupervised learning in artificial and SNNs. Here, we propose that Hebbian plasticity is fundamental for computations in biological and artificial spiking neural systems. We introduce a novel memory-augmented SNN architecture that is enriched by Hebbian synaptic plasticity. We show that Hebbian enrichment renders SNNs surprisingly versatile in terms of their computational as well as learning capabilities. It improves their abilities for out-of-distribution generalization, one-shot learning, cross-modal generative association, language processing, and reward-based learning. This suggests that powerful cognitive neuromorphic systems can be built based on this principle.},
+  author={Limbacher, Thomas and Özdenizci, Ozan and Legenstein, Robert},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  pdf={https://ieeexplore.ieee.org/iel7/5962385/10877690/10365548.pdf},
+  code={https://github.com/IGITUGraz/MemoryDependentComputation},
+  year={2023}
+}
+
+@article{klaiberaboitiz2023interaction,
+  bibtex_show={true},
+  abbr={ICANN},
+  title={Interaction of generalization and out-of-distribution detection capabilities in deep neural networks},
+  abstract={Current supervised deep learning models are shown to achieve exceptional performance when data samples used in evaluation come from a known source, but are susceptible to performance degradations when the data distribution is even slightly shifted. In this work, we study the interaction of two related aspects in this context: (1) out-of-distribution (OOD) generalization ability of DNNs to successfully classify samples from unobserved data distributions, and (2) being able to detect strictly OOD samples when observed at test-time, finding that acquisition of these two capabilities can be at odds. We experimentally analyze the impact of various training data related texture and shape biases on both abilities. Importantly, we reveal that naive outlier exposure mechanisms can help to improve OOD detection performance while introducing strong texture biases that conflict with the generalization abilities of the networks. We further explore the influence of such conflicting texture bias backdoors, which lead to unreliable OOD detection performance on spurious OOD samples observed at test-time.},
+  author={Klaiber Aboitiz, Francisco Javier and Legenstein, Robert and Özdenizci, Ozan},
+  journal={32nd International Conference on Artificial Neural Networks (ICANN)},
+  pdf={https://link.springer.com/content/pdf/10.1007/978-3-031-44204-9_21.pdf?pdf=inline%20link},
+  year={2023}
+}
+
+@article{sebestyen2023generating,
+  bibtex_show={true},
+  abbr={eCAADe},
+  title={Generating conceptual architectural 3D geometries with denoising diffusion models},
+  abstract={Generative deep learning diffusion models have been attracting mainstream attention in the field of 2D image generation. We propose a prototype which brings a diffusion network into the third dimension, with the purpose of generating geometries for conceptual design. We explore the possibilities of generating 3D datasets, using parametric design to overcome the problem of the current lack of available architectural 3D data suitable for training neural networks. Furthermore, we propose a data representation based on volumetric density grids which is applicable to train diffusion networks. Our early prototype demonstrates the viability of the approach and suggests future options to develop deep learning generative 3D tools for architectural design.},
+  author={Sebestyen, Adam and Özdenizci, Ozan and Legenstein, Robert and Hirschberg, Urs},
+  journal={41st Conference on Education and Research in Computer Aided Architectural Design in Europe-Digital Design Reconsidered: eCAADe 2023},
+  pdf={https://papers.cumincad.org/data/works/att/ecaade2023_250.pdf},
+  year={2023}
+}
+
+@article{hallgarten2023ts,
+  bibtex_show={true},
+  abbr={EUSIPCO},
+  title={TS-MoCo: Time-series momentum contrast for self-supervised physiological representation learning},
+  abstract={Limited availability of labeled physiological data often prohibits the use of powerful supervised deep learning models in the biomedical machine intelligence domain. We approach this problem and propose a novel encoding framework that relies on self-supervised learning with momentum contrast to learn representations from multivariate time-series of various physiological domains without needing labels. Our model uses a transformer architecture that can be easily adapted to classification problems by optimizing a linear output classification layer. We experimentally evaluate our framework using two publicly available physiological datasets from different domains, i.e., human activity recognition from embedded inertial sensory and emotion recognition from electroencephalography. We show that our self-supervised learning approach can indeed learn discriminative features which can be exploited in downstream classification tasks. Our work enables the development of domain-agnostic intelligent systems that can effectively analyze multivariate time-series data from physiological domains.},
+  author={Hallgarten, Philipp and Bethge, David and Özdenizci, Ozan and Grosse-Puppendahl, Tobias and Kasneci, Enkelejda},
+  journal={31st European Signal Processing Conference (EUSIPCO)},
+  pdf={https://arxiv.org/pdf/2306.06522},
+  year={2023}
+}
+
+@article{ozdenizci2022improving,
+  bibtex_show={true},
+  abbr={CVPR},
+  title={Improving robustness against stealthy weight bit-flip attacks by output code matching},
+  abstract={Deep neural networks (DNNs) have been shown to be vulnerable against adversarial weight bit-flip attacks through hardware-induced fault-injection methods on the memory systems where network parameters are stored. Recent attacks pose the further concerning threat of finding minimal targeted and stealthy weight bit-flips that preserve expected behavior for untargeted test samples. This renders the attack undetectable from a DNN operation perspective. We propose a DNN defense mechanism to improve robustness in such realistic stealthy weight bit-flip attack scenarios. Our output code matching networks use an output coding scheme where the usual one-hot encoding of classes is replaced by partially overlapping bit strings. We show that this encoding significantly reduces attack stealthiness. Importantly, our approach is compatible with existing defenses and DNN architectures. It can be efficiently implemented on pre-trained models by simply re-defining the output classification layer and finetuning. Experimental benchmark evaluations show that output code matching is superior to existing regularized weight quantization based defenses, and an effective defense against stealthy weight bit-flip attacks.},
+  author={Özdenizci, Ozan and Legenstein, Robert},
+  journal={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pdf={https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022.pdf},
+  supp={https://igi-web.tugraz.at/PDF/OzdenizciLegenstein_CVPR2022_supp.pdf},
+  code={https://github.com/IGITUGraz/OutputCodeMatching},
+  selected={true},
+  year={2022}
+}
+
+@article{bethge2022eeg2vec,
+  bibtex_show={true},
+  abbr={SMC},
+  title={EEG2Vec: Learning affective EEG representations via variational autoencoders},
+  abstract={There is a growing need for sparse representational formats of human affective states that can be utilized in scenarios with limited computational memory resources. We explore whether representing neural data, in response to emotional stimuli, in a latent vector space can serve to both predict emotional states as well as generate synthetic EEG data that are participant-and/or emotion-specific. We propose a conditional variational autoencoder based framework, EEG2Vec, to learn generative-discriminative representations from EEG data. Experimental results on affective EEG recording datasets demonstrate that our model is suitable for unsupervised EEG modeling, classification of three distinct emotion categories (positive, neutral, negative) based on the latent representation achieves a robust performance of 68.49\%, and generated synthetic EEG sequences resemble real EEG data inputs to particularly reconstruct low-frequency signal components. Our work advances areas where affective EEG representations can be useful in e.g., generating artificial (labeled) training data or alleviating manual feature extraction, and provide efficiency for memory constrained edge computing applications.},
+  author={Bethge, David and Hallgarten, Philipp and Grosse-Puppendahl, Tobias and Kari, Mohamed and Chuang, Lewis L and Özdenizci, Ozan and Schmidt, Albrecht},
+  journal={IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pdf={https://arxiv.org/pdf/2207.08002.pdf},
+  year={2022}
+}
+
+@article{bethge2022exploiting,
+  bibtex_show={true},
+  abbr={EMBC},
+  title={Exploiting multiple EEG data domains with adversarial learning},
+  abstract={Electroencephalography (EEG) is shown to be a valuable data source for evaluating subjects' mental states. However, the interpretation of multi-modal EEG signals is challenging, as they suffer from poor signal-to-noise-ratio, are highly subject-dependent, and are bound to the equipment and experimental setup used, (i.e. domain). This leads to machine learning models often suffer from poor generalization ability, where they perform significantly worse on real-world data than on the exploited training data. Recent research heavily focuses on cross-subject and cross-session transfer learning frameworks to reduce domain calibration efforts for EEG signals. We argue that multi-source learning via learning domain-invariant representations from multiple data-sources is a viable alternative, as the available data from different EEG data-source domains (e.g., subjects, sessions, experimental setups) grow massively. We propose an adversarial inference approach to learn data-source invariant representations in this context, enabling multi-source learning for EEG-based brain- computer interfaces. We unify EEG recordings from different source domains (i.e., emotion recognition datasets SEED, SEED-IV, DEAP, DREAMER), and demonstrate the feasibility of our invariant representation learning approach in suppressing data- source-relevant information leakage by 35\% while still achieving stable EEG-based emotion classification performance.},
+  author={Bethge, David and Hallgarten, Philipp and Özdenizci, Ozan and Mikut, Ralf and Schmidt, Albrecht and Grosse-Puppendahl, Tobias},
+  journal={44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pdf={https://arxiv.org/pdf/2204.07777.pdf},
+  year={2022}
+}
+
+@article{bethge2022exploiting,
+  bibtex_show={true},
+  abbr={ICASSP},
+  title={Domain-invariant representation learning from EEG with private encoders},
+  abstract={Deep learning based electroencephalography (EEG) signal processing methods are known to suffer from poor test-time generalization due to the changes in data distribution. This becomes a more challenging problem when privacy-preserving representation learning is of interest such as in clinical settings. To that end, we propose a multi-source learning architecture where we extract domain-invariant representations from dataset-specific private encoders. Our model utilizes a maximum-mean-discrepancy (MMD) based domain alignment approach to impose domain-invariance for encoded representations, which outperforms state-of-the-art approaches in EEG-based emotion classification. Furthermore, representations learned in our pipeline preserve domain privacy as dataset-specific private encoding alleviates the need for conventional, centralized EEG-based deep neural network training approaches with shared parameters.},
+  author={Bethge, David and Hallgarten, Philipp and Grosse-Puppendahl, Tobias and Kari, Mohamed and Mikut, Ralf and Schmidt, Albrecht and Özdenizci, Ozan},
+  journal={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pdf={https://arxiv.org/pdf/2201.11613.pdf},
+  year={2022}
+}
+
+@article{ozdenizci2021training,
+  bibtex_show={true},
+  abbr={ICML},
+  title={Training adversarially robust sparse networks via Bayesian connectivity sampling},
+  abstract={Deep neural networks have been shown to be susceptible to adversarial attacks. This lack of adversarial robustness is even more pronounced when models are compressed in order to meet hardware limitations. Hence, if adversarial robustness is an issue, training of sparsely connected networks necessitates considering adversarially robust sparse learning. Motivated by the efficient and stable computational function of the brain in the presence of a highly dynamic synaptic connectivity structure, we propose an intrinsically sparse rewiring approach to train neural networks with state-of-the-art robust learning objectives under high sparsity. Importantly, in contrast to previously proposed pruning techniques, our approach satisfies global connectivity constraints throughout robust optimization, ie, it does not require dense pre-training followed by pruning. Based on a Bayesian posterior sampling principle, a network rewiring process simultaneously learns the sparse connectivity structure and the robustness-accuracy trade-off based on the adversarial learning objective. Although our networks are sparsely connected throughout the whole training process, our experimental benchmark evaluations show that their performance is superior to recently proposed robustness-aware network pruning methods which start from densely connected networks.},
+  author={Özdenizci, Ozan and Legenstein, Robert},
+  journal={International Conference on Machine Learning (ICML)},
+  pdf={http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a.pdf},
+  supp={http://proceedings.mlr.press/v139/ozdenizci21a/ozdenizci21a-supp.pdf},
+  code={https://github.com/IGITUGraz/SparseAdversarialTraining},
+  selected={true},
+  year={2021}
+}
+
+@article{han2021universal,
+  bibtex_show={true},
+  abbr={JBHI},
+  title={Universal physiological representation learning with soft-disentangled rateless autoencoders},
+  abstract={Human computer interaction (HCI) involves a multidisciplinary fusion of technologies, through which the control of external devices could be achieved by monitoring physiological status of users. However, physiological biosignals often vary across users and recording sessions due to unstable physical/mental conditions and task-irrelevant activities. To deal with this challenge, we propose a method of adversarial feature encoding with the concept of a Rateless Autoencoder (RAE), in order to exploit disentangled, nuisance-robust, and universal representations. We achieve a good trade-off between user-specific and task-relevant features by making use of the stochastic disentanglement of the latent representations by adopting additional adversarial networks. The proposed model is applicable to a wider range of unknown users and tasks as well as different classifiers. Results on cross-subject transfer evaluations show the advantages of the proposed framework, with up to an 11.6\% improvement in the average subject-transfer classification accuracy.},
+  author={Han, Mo and Özdenizci, Ozan and Koike-Akino, Toshiaki and Wang, Ye and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  pdf={https://arxiv.org/pdf/2009.13453.pdf},
+  year={2021}
+}
+
+@article{ozdenizci2021eeg,
+  bibtex_show={true},
+  abbr={BioSig},
+  title={EEG-based texture roughness classification in active tactile exploration with invariant representation learning networks},
+  abstract={During daily activities, humans use their hands to grasp surrounding objects and perceive sensory information which are also employed for perceptual and motor goals. Multiple cortical brain regions are known to be responsible for sensory recognition, perception and motor execution during sensorimotor processing. While various research studies particularly focus on the domain of human sensorimotor control, the relation and processing between motor execution and sensory processing is not yet fully understood. Main goal of our work is to discriminate textured surfaces varying in their roughness levels during active tactile exploration using simultaneously recorded electroencephalogram (EEG) data, while minimizing the variance of distinct motor exploration movement patterns. We perform an experimental study with eight healthy participants who were instructed to use the tip of their dominant hand index finger while rubbing or tapping three different textured surfaces with varying levels of roughness. We use an adversarial invariant representation learning neural network architecture that performs EEG-based classification of different textured surfaces, while simultaneously minimizing the discriminability of motor movement conditions (i.e., rub or tap). Results show that the proposed approach can discriminate between three different textured surfaces with accuracies up to 70\%, while suppressing movement related variability from learned representations.},
+  author={Özdenizci, Ozan and Eldeeb, Safaa and Demir, Andac and Erdo{\u{g}}mu{\c{s}}, Deniz and Akcakaya, Murat},
+  journal={Biomedical Signal Processing and Control},
+  pdf={https://arxiv.org/pdf/2102.08976.pdf},
+  year={2021}
+}
+
+@article{ozdenizci2021on,
+  bibtex_show={true},
+  abbr={NER},
+  title={On the use of generative deep neural networks to synthesize artificial multichannel EEG signals},
+  abstract={Recent promises of generative deep learning lately brought interest to its potential uses in neural engineering. In this paper we firstly review recently emerging studies on generating artificial electroencephalography (EEG) signals with deep neural networks. Subsequently, we present our feasibility experiments on generating condition-specific multichannel EEG signals using conditional variational autoencoders. By manipulating real resting-state EEG epochs, we present an approach to synthetically generate time-series multichannel signals that show spectro-temporal EEG patterns which are expected to be observed during distinct motor imagery conditions.},
+  author={Özdenizci, Ozan and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={10th International IEEE/EMBS Conference on Neural Engineering (NER)},
+  pdf={https://arxiv.org/pdf/2102.08061.pdf},
+  year={2021}
+}
+
+@article{ozdenizci2021stochastic,
+  bibtex_show={true},
+  abbr={InfoSci},
+  title={Stochastic mutual information gradient estimation for dimensionality reduction networks},
+  abstract={Feature ranking and selection is a widely used approach in various applications of supervised dimensionality reduction in discriminative machine learning. Nevertheless there exists significant evidence on feature ranking and selection algorithms based on any criterion leading to potentially sub-optimal solutions for class separability. In that regard, we introduce emerging information theoretic feature transformation protocols as an end-to-end neural network training approach. We present a dimensionality reduction network (MMINet) training procedure based on the stochastic estimate of the mutual information gradient. The network projects high-dimensional features onto an output feature space where lower dimensional representations of features carry maximum mutual information with their associated class labels. Furthermore, we formulate the training objective to be estimated non-parametrically with no distributional assumptions. We experimentally evaluate our method with applications to high-dimensional biological data sets, and relate it to conventional feature selection algorithms to form a special case of our approach.},
+  author={Özdenizci, Ozan and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={Information Sciences},
+  pdf={https://arxiv.org/pdf/2105.00191.pdf},
+  year={2021}
+}
+
+@article{ozdenizci2020learning,
+  bibtex_show={true},
+  abbr={IEEE Access},
+  title={Learning invariant representations from EEG via adversarial inference},
+  abstract={Discovering and exploiting shared, invariant neural activity in electroencephalogram (EEG) based classification tasks is of significant interest for generalizability of decoding models across subjects or EEG recording sessions. While deep neural networks are recently emerging as generic EEG feature extractors, this transfer learning aspect usually relies on the prior assumption that deep networks naturally behave as subject- (or session-) invariant EEG feature extractors. We propose a further step towards invariance of EEG deep learning frameworks in a systemic way during model training. We introduce an adversarial inference approach to learn representations that are invariant to inter-subject variabilities within a discriminative setting. We perform experimental studies using a publicly available motor imagery EEG dataset, and state-of-the-art convolutional neural network based EEG decoding models within the proposed adversarial learning framework. We present our results in cross-subject model transfer scenarios, demonstrate neurophysiological interpretations of the learned networks, and discuss potential insights offered by adversarial inference to the growing field of deep learning for EEG.},
+  author={Özdenizci, Ozan and Wang, Ye and Koike-Akino, Toshiaki and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={IEEE Access},
+  pdf={https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8981912},
+  code={https://github.com/oozdenizci/AdversarialEEGDecoding},
+  year={2020}
+}
+
+@article{han2020adisentangled,
+  bibtex_show={true},
+  abbr={SPL},
+  title={Disentangled adversarial autoencoder for subject-invariant physiological feature extraction},
+  abstract={Recent developments in biosignal processing have enabled users to exploit their physiological status for manipulating devices in a reliable and safe manner. One major challenge of physiological sensing lies in the variability of biosignals across different users and tasks. To address this issue, we propose an adversarial feature extractor for transfer learning to exploit disentangled universal representations. We consider the trade-off between task-relevant features and user-discriminative information by introducing additional adversary and nuisance networks in order to manipulate the latent representations such that the learned feature extractor is applicable to unknown users and various tasks. Results on cross-subject transfer evaluations exhibit the benefits of the proposed framework, with up to 8.8\% improvement in average accuracy of classification, and demonstrate adaptability to a broader range of subjects.},
+  author={Han, Mo and Özdenizci, Ozan and Wang, Ye and Koike-Akino, Toshiaki and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={IEEE Signal Processing Letters},
+  pdf={https://arxiv.org/pdf/2008.11426},
+  year={2020}
+}
+
+@article{han2020bdisentangled,
+  bibtex_show={true},
+  abbr={EMBC},
+  title={Disentangled adversarial transfer learning for physiological biosignals},
+  abstract={Recent developments in wearable sensors demonstrate promising results for monitoring physiological status in effective and comfortable ways. One major challenge of physiological status assessment is the problem of transfer learning caused by the domain inconsistency of biosignals across users or different recording sessions from the same user. We propose an adversarial inference approach for transfer learning to extract disentangled nuisance-robust representations from physiological biosignal data in stress status level assessment. We exploit the trade-off between task-related features and person-discriminative information by using both an adversary network and a nuisance network to jointly manipulate and disentangle the learned latent representations by the encoder, which are then input to a discriminative classifier. Results on cross-subjects transfer evaluations demonstrate the benefits of the proposed adversarial framework, and thus show its capabilities to adapt to a broader range of subjects. Finally we highlight that our proposed adversarial transfer learning approach is also applicable to other deep feature learning frameworks.},
+  author={Han, Mo and Özdenizci, Ozan and Wang, Ye and Koike-Akino, Toshiaki and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pdf={https://arxiv.org/pdf/2004.08289.pdf},
+  year={2020}
+}
+
+@article{ozdenizci2019information,
+  bibtex_show={true},
+  abbr={TBME},
+  title={Information theoretic feature transformation learning for brain interfaces},
+  abstract={Objective: A variety of pattern analysis techniques for model training in brain interfaces exploit neural feature dimensionality reduction based on feature ranking and selection heuristics. In the light of broad evidence demonstrating the potential sub-optimality of ranking based feature selection by any criterion, we propose to extend this focus with an information theoretic learning driven feature transformation concept. Methods: We present a maximum mutual information linear transformation (MMI-LinT), and a nonlinear transformation (MMI-NonLinT) framework derived by a general definition of the feature transformation learning problem. Empirical assessments are performed based on electroencephalographic (EEG) data recorded during a four class motor imagery brain-computer interface (BCI) task. Exploiting state-of-the-art methods for initial feature vector construction, we compare the proposed approaches with conventional feature selection based dimensionality reduction techniques which are widely used in brain interfaces. Furthermore, for the multi-class problem, we present and exploit a hierarchical graphical model based BCI decoding system. Results: Both binary and multi-class decoding analyses demonstrate significantly better performances with the proposed methods. Conclusion: Information theoretic feature transformations are capable of tackling potential confounders of conventional approaches in various settings. Significance: We argue that this concept provides significant insights to extend the focus on feature selection heuristics to a broader definition of feature transformation learning in brain interfaces.},
+  author={Özdenizci, Ozan and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={IEEE Transactions on Biomedical Engineering},
+  volume={67},
+  number={1},
+  pages={69--78},
+  pdf={https://arxiv.org/pdf/1903.12235},
+  code={https://github.com/oozdenizci/MMIDimReduction},
+  year={2019}
+}
+
+@article{ozdenizci2019adversarial,
+  bibtex_show={true},
+  abbr={SPL},
+  title={Adversarial deep learning in EEG biometrics},
+  abstract={Deep learning methods for person identification based on electroencephalographic (EEG) brain activity encounters the problem of exploiting the temporally correlated structures or recording session specific variability within EEG. Furthermore, recent methods have mostly trained and evaluated based on single session EEG data. We address this problem from an invariant representation learning perspective. We propose an adversarial inference approach to extend such deep learning models to learn session-invariant person-discriminative representations that can provide robustness in terms of longitudinal usability. Using adversarial learning within a deep convolutional network, we empirically assess and show improvements with our approach based on longitudinally collected EEG data for person identification from half-second EEG epochs.},
+  author={Özdenizci, Ozan and Wang, Ye and Koike-Akino, Toshiaki and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={IEEE Signal Processing Letters},
+  volume={26},
+  number={5},
+  pages={710--714},
+  pdf={https://arxiv.org/pdf/1903.11673},
+  code={https://github.com/oozdenizci/AdversarialEEGDecoding},
+  year={2019}
+}
+
+@article{ozdenizci2019transfer,
+  bibtex_show={true},
+  abbr={NER},
+  title={Transfer learning in brain-computer interfaces with adversarial variational autoencoders},
+  abstract={We introduce adversarial neural networks for representation learning as a novel approach to transfer learning in brain-computer interfaces (BCIs). The proposed approach aims to learn subject-invariant representations by simultaneously training a conditional variational autoencoder (cVAE) and an adversarial network. We use shallow convolutional architectures to realize the cVAE, and the learned encoder is transferred to extract subject-invariant features from unseen BCI users’ data for decoding. We demonstrate a proof-of-concept of our approach based on analyses of electroencephalographic (EEG) data recorded during a motor imagery BCI experiment.},
+  author={Özdenizci, Ozan and Wang, Ye and Koike-Akino, Toshiaki and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={9th International IEEE/EMBS Conference on Neural Engineering (NER)},
+  pdf={https://arxiv.org/pdf/1812.06857},
+  code={https://github.com/oozdenizci/AdversarialConditionalVAE},
+  year={2019}
+}
+
+@article{ozdenizci2019adversarial,
+  bibtex_show={true},
+  abbr={GBCI},
+  title={Adversarial feature learning in brain interfacing: an experimental study on eliminating drowsiness effects},
+  abstract={Across- and within-recording variabilities in electroencephalographic (EEG) activity is a major limitation in EEG-based brain-computer interfaces (BCIs). Specifically, gradual changes in fatigue and vigilance levels during long EEG recording durations and BCI system usage bring along significant fluctuations in BCI performances even when these systems are calibrated daily. We address this in an experimental offline study from EEG-based BCI speller usage data acquired for one hour duration. As the main part of our methodological approach, we propose the concept of adversarial invariant feature learning for BCIs as a regularization approach on recently expanding EEG deep learning architectures, to learn nuisance-invariant discriminative features. We empirically demonstrate the feasibility of adversarial feature learning on eliminating drowsiness effects from event related EEG activity features, by using temporal recording block ordering as the source of drowsiness variability.},
+  author={Özdenizci, Ozan and Oken, Barry and Memmott, Tab and Fried-Oken, Melanie and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={8th Graz Brain-Computer Interface Conference},
+  pdf={https://arxiv.org/pdf/1907.09540},
+  year={2019}
+}
+
+@article{ozdenizci2019neural,
+  bibtex_show={true},
+  abbr={SMC},
+  title={Neural signatures of motor skill in the resting brain},
+  abstract={Stroke-induced disturbances of large-scale cortical networks are known to be associated with the extent of motor deficits. We argue that identifying brain networks representative of motor behavior in the resting brain would provide significant insights for current neurorehabilitation approaches. Particularly, we aim to investigate the global configuration of brain rhythms and their relation to motor skill, instead of learning performance as broadly studied. We empirically approach this problem by conducting a three-dimensional physical space visuomotor learning experiment during electroencephalographic (EEG) data recordings with thirty-seven healthy participants. We demonstrate that across-subjects variations in average movement smoothness as the quantified measure of subjects' motor skills can be predicted from the global configuration of resting-state EEG alpha-rhythms (8-14 Hz) recorded prior to the experiment. Importantly, this neural signature of motor skill was found to be orthogonal to (independent of) task-as well as to learning-related changes in alpha-rhythms, which we interpret as an organizing principle of the brain. We argue that disturbances of such configurations in the brain may contribute to motor deficits in stroke, and that reconfiguring stroke patients' brain rhythms by neurofeedback may enhance post-stroke neurorehabilitation.},
+  author={Özdenizci, Ozan and Meyer, Timm and Wichmann, Felix and Peters, Jan and Schölkopf, Bernhard and {\c{C}}etin, M{\"{u}}jdat and Grosse-Wentrup Moritz},
+  journal={IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pdf={https://arxiv.org/pdf/1907.09533},
+  year={2019}
+}
+
+@article{ozdenizci2018hierarchical,
+  bibtex_show={true},
+  abbr={EMBC},
+  title={Hierarchical graphical models for context-aware hybrid brain-machine interfaces},
+  abstract={We present a novel hierarchical graphical model based context-aware hybrid brain-machine interface (hBMI) using probabilistic fusion of electroencephalographic (EEG) and electromyographic (EMG) activities. Based on experimental data collected during stationary executions and subsequent imageries of five different hand gestures with both limbs, we demonstrate feasibility of the proposed hBMI system through within session and online across sessions classification analyses. Furthermore, we investigate the context-aware extent of the model by a simulated probabilistic approach and highlight potential implications of our work in the field of neurophysiologically-driven robotic hand prosthetics.},
+  author={Özdenizci, Ozan and G{\"{u}}nay, Sezen Ya{\u{g}}mur and Quivira, Fernando and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pdf={https://arxiv.org/pdf/1809.05635},
+  year={2018}
+}
+
+@article{ozdenizci2018time,
+  bibtex_show={true},
+  abbr={EMBC},
+  title={Time-series prediction of proximal aggression onset in minimally-verbal youth with autism spectrum disorder using physiological biosignals},
+  abstract={It has been suggested that changes in physiological arousal precede potentially dangerous aggressive behavior in youth with autism spectrum disorder (ASD) who are minimally verbal (MV-ASD). The current work tests this hypothesis through time-series analyses on biosignals acquired prior to proximal aggression onset. We implement ridge-regularized logistic regression models on physiological biosensor data wirelessly recorded from 15 MV-ASD youth over 64 independent naturalistic observations in a hospital inpatient unit. Our results demonstrate proof-of-concept, feasibility, and incipient validity predicting aggression onset 1 minute before it occurs using global, person-dependent, and hybrid classifier models.},
+  author={Özdenizci, Ozan and Cumpanasoiu, Catalina and Mazefsky, Carla and Siegel, Matthew and Erdo{\u{g}}mu{\c{s}}, Deniz and Ioannidis, Stratis and Goodwin, Matthew S},
+  journal={40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pdf={https://arxiv.org/pdf/1809.09948},
+  year={2018}
+}
+
+@article{goodwin2018predicting,
+  bibtex_show={true},
+  abbr={PervasiveHealth},
+  title={Predicting imminent aggression onset in minimally-verbal youth with autism spectrum disorder using preceding physiological signals},
+  abstract={We test the hypothesis that changes in preceding physiological arousal can be used to predict imminent aggression proximally before it occurs in youth with autism spectrum disorder (ASD) who are minimally verbal (MV-ASD). We evaluate this hypothesis through statistical analyses performed on physiological biosensor data wirelessly recorded from 20 MV-ASD youth over 69 independent naturalistic observations in a hospital inpatient unit. Using ridge-regularized logistic regression, results demonstrate that, on average, our models are able to predict the onset of aggression 1 minute before it occurs using 3 minutes of prior data with a 0.71 AUC for global, and a 0.84 AUC for person-dependent models.},
+  author={Goodwin, Matthew S and Özdenizci, Ozan and Cumpanasoiu, Catalina and Tian, Peng and Guo, Yuan and Stedman, Amy and Peura, Christine and Mazefsky, Carla and Siegel, Matthew and Erdo{\u{g}}mu{\c{s}}, Deniz and Ioannidis, Stratis},
+  journal={12th EAI International Conference on Pervasive Computing Technologies for Healthcare},
+  pdf={https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2018/PervasiveHealth2018.pdf},
+  year={2018}
+}
+
+@article{ozdenizci2017electroencephalographic,
+  bibtex_show={true},
+  abbr={JNE},
+  title={Electroencephalographic identifiers of motor adaptation learning},
+  abstract={Objective. Recent brain-computer interface (BCI) assisted stroke rehabilitation protocols tend to focus on sensorimotor activity of the brain. Relying on evidence claiming that a variety of brain rhythms beyond sensorimotor areas are related to the extent of motor deficits, we propose to identify neural correlates of motor learning beyond sensorimotor areas spatially and spectrally for further use in novel BCI-assisted neurorehabilitation settings. Approach. Electroencephalographic (EEG) data were recorded from healthy subjects participating in a physical force-field adaptation task involving reaching movements through a robotic handle. EEG activity recorded during rest prior to the experiment and during pre-trial movement preparation was used as features to predict motor adaptation learning performance across subjects. Main results. Subjects learned to perform straight movements under the force-field at different adaptation rates. Both resting-state and pre-trial EEG features were predictive of individual adaptation rates with relevance of a broad network of beta activity. Beyond sensorimotor regions, a parieto-occipital cortical component observed across subjects was involved strongly in predictions and a fronto-parietal cortical component showed significant decrease in pre-trial beta-powers for users with higher adaptation rates and increase in pre-trial beta-powers for users with lower adaptation rates. Significance. Including sensorimotor areas, a large-scale network of beta activity is presented as predictive of motor learning. Strength of resting-state parieto-occipital beta activity or pre-trial fronto-parietal beta activity can be considered in BCI-assisted stroke rehabilitation protocols with neurofeedback training or volitional control of neural activity for brain-robot interfaces to induce plasticity.},
+  author={Özdenizci, Ozan and Yal{\c{c}}ın, Mustafa and Erdo{\u{g}}an, Ahmetcan and Pato{\u{g}}lu, Volkan and Grosse-Wentrup, Moritz and {\c{C}}etin, M{\"{u}}jdat},
+  journal={Journal of Neural Engineering},
+  volume={14},
+  number={4},
+  pdf={https://labsites.rochester.edu/sdis/wp-content/uploads/2023/03/ozdenizci_JNE17.pdf},
+  year={2017}
+}
+
+@article{ozdenizci2017information,
+  bibtex_show={true},
+  abbr={MLSP},
+  title={Information theoretic feature projection for single-trial brain-computer interfaces},
+  abstract={Current approaches on optimal spatio-spectral feature extraction for single-trial BCIs exploit mutual information based feature ranking and selection algorithms. In order to overcome potential confounders underlying feature selection by information theoretic criteria, we propose a nonparametric feature projection framework for dimensionality reduction that utilizes mutual information based stochastic gradient descent. We demonstrate the feasibility of the protocol based on analyses of EEG data collected during execution of open and close palm hand gestures. We further discuss the approach in terms of potential insights in the context of neurophysiologically driven prosthetic hand control.},
+  author={Özdenizci, Ozan and Quivira, Fernando and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  journal={IEEE 27th International Workshop on Machine Learning for Signal Processing (MLSP)},
+  pdf={https://ieeexplore.ieee.org/abstract/document/8168178/},
+  year={2017}
+}
+
+@article{ozdenizci2017pre,
+  bibtex_show={true},
+  abbr={ICASSP},
+  title={Pre-movement contralateral EEG low beta power is modulated with motor adaptation learning},
+  abstract={Various neuroimaging studies aim to understand the complex nature of human motor behavior. There exists a variety of experimental approaches to study neurophysiological correlates of performance during different motor tasks. As distinct from studies based on visuomotor learning, we investigate changes in electroencephalographic (EEG) activity during an actual physical motor adaptation learning experiment. Based on statistical analysis of EEG signals collected during a force-field adaptation task performed with the dominant hand, we observe a modulation of pre-movement upper alpha (10-12 Hz) and lower beta (13-16 Hz) powers over the contralateral region. This modulation is observed to be stronger in lower beta range and, through a regression analysis, is shown to be related with motor adaptation performance on a subject-specific level.},
+  author={Özdenizci, Ozan and Yal{\c{c}}ın, Mustafa and Erdo{\u{g}}an, Ahmetcan and Pato{\u{g}}lu, Volkan and Grosse-Wentrup, Moritz and {\c{C}}etin, M{\"{u}}jdat},
+  journal={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pdf={http://research.sabanciuniv.edu/33829/2/ozdenizci_ICASSP17.pdf},
+  year={2017}
+}
+
+@article{ozdenizci2017correlations,
+  bibtex_show={true},
+  abbr={GBCI},
+  title={Correlations of motor adaptation learning and modulation of resting-state sensorimotor EEG activity},
+  abstract={There exists a variety of electroencephalogram (EEG) based brain-computer interface (BCI) assisted stroke rehabilitation protocols which exploit the recognized nature of sensorimotor rhythms (SMRs) during motor movements. For novel approaches independent of motor execution, we investigate the changes in resting-state sensorimotor EEG with motor learning, resembling the process of post-stroke recovery. In contrast to the neuroimaging studies based on visuomotor tasks, we study motor learning during an actual physical motor adaptation learning experiment. Based on analysis of EEG data collected throughout a force-field adaptation task, we observed a spectral power increase of resting SMRs across subjects. The modulation across resting-states in an early adaptation phase of the motor task was further shown to predict individual motor adaptation performance measures.},
+  author={Özdenizci, Ozan and Yal{\c{c}}ın, Mustafa and Erdo{\u{g}}an, Ahmetcan and Pato{\u{g}}lu, Volkan and Grosse-Wentrup, Moritz and {\c{C}}etin, M{\"{u}}jdat},
+  journal={7th Graz Brain-Computer Interface Conference},
+  pdf={http://research.sabanciuniv.edu/33858/1/ozdenizci_GBCIC17.pdf},
+  year={2017}
+}
+
+@article{mastakouri2017personalized,
+  bibtex_show={true},
+  abbr={SMC},
+  title={Personalized brain-computer interface models for motor rehabilitation},
+  abstract={We propose to fuse two currently separate research lines on novel therapies for stroke rehabilitation: brain-computer interface (BCI) training and transcranial electrical stimulation (TES). Specifically, we show that BCI technology can be used to learn personalized decoding models that relate the global configuration of brain rhythms in individual subjects (as measured by EEG) to their motor performance during 3D reaching movements. We demonstrate that our models capture substantial across-subject heterogeneity, and argue that this heterogeneity is a likely cause of limited effect sizes observed in TES for enhancing motor performance. We conclude by discussing how our personalized models can be used to derive optimal TES parameters, e.g., stimulation site and frequency, for individual patients.},
+  author={Mastakouri, Anastasia-Atalanti and Weichwald, Sebastian and Özdenizci, Ozan and Meyer, Timm and Schölkopf, Bernhard and Grosse-Wentrup, Moritz},
+  journal={IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pdf={https://arxiv.org/pdf/1705.03259},
+  year={2017}
+}
+
+@article{ozdenizci2016resting,
+  bibtex_show={true},
+  abbr={SIU},
+  title={Resting-state EEG correlates of motor learning performance in a force-field adaptation task},
+  abstract={Recent BCI-based stroke rehabilitation studies focus on exploiting information obtained from sensorimotor EEG activity. In the present study, to extend this focus beyond sensorimotor rhythms, we investigate associative brain areas that are also related with motor learning skills. Based on experimental data from twenty-one healthy subjects, resting-state EEG recorded prior to the experiment was used to predict motor learning performance during a force-field adaptation task in which subjects performed center-out reaching movements disturbed by an external force-field. A broad resting-state beta-power configuration was found to be predictive of motor adaptation rate. Our findings suggest that resting EEG beta-power is an indicator of subjects' ability to learn new motor skills and adapt to different sensorimotor states. This information can be further exploited in a novel BCI-based stroke rehabilitation approach we propose.},
+  author={Özdenizci, Ozan and Yal{\c{c}}ın, Mustafa and Erdo{\u{g}}an, Ahmetcan and Pato{\u{g}}lu, Volkan and Grosse-Wentrup, Moritz and {\c{C}}etin, M{\"{u}}jdat},
+  journal={24th Signal Processing and Communication Application Conference (SIU)},
+  pdf={http://research.sabanciuniv.edu/30355/1/Ozdenizci_MLUB2016_final.pdf},
+  year={2016}
+}
+
+@article{ozdenizci2015adaptive,
+  bibtex_show={true},
+  abbr={SIU},
+  title={Adaptive neurofeedback on parieto-occipital cortex for motor learning performance},
+  abstract={Numerous electroencephalogram (EEG) based Brain-Computer Interface (BCI) systems are being used as alternative means of communication for locked-in patients. Beyond these, BCIs are also considered in the context of post-stroke motor rehabilitation. Such research usually focuses on exploiting information decoded from sensorimotor activity of the brain. Here, we propose to extend this current focus beyond sensorimotor to also include associative brain areas. In this pilot study, we present an adaptive neurofeedback training paradigm to up-regulate particular EEG activity that is likely to enhance post-stroke motor rehabilitation. Our experimental results support the interpretation that the neurofeedback paradigm enables subjects to up-regulate intended activity and sustain that modulation in inter-trial resting periods in a state that we believe can support motor learning performance. These results serve as a beginning on viability of our claim on integrating a neurofeedback approach to BCI-based motor rehabilitation protocols.},
+  author={Özdenizci, Ozan and Meyer, Timm and {\c{C}}etin, M{\"{u}}jdat and Grosse-Wentrup, Moritz},
+  journal={23rd Signal Processing and Communication Applications Conference (SIU)},
+  pdf={https://labsites.rochester.edu/sdis/wp-content/uploads/2023/03/ozdenizci_SIU15.pdf},
+  year={2015}
+}
+
+@article{weichwald2015causal,
+  bibtex_show={true},
+  abbr={NeuroImage},
+  title={Causal interpretation rules for encoding and decoding models in neuroimaging},
+  abstract={Causal terminology is often introduced in the interpretation of encoding and decoding models trained on neuroimaging data. In this article, we investigate which causal statements are warranted and which ones are not supported by empirical evidence. We argue that the distinction between encoding and decoding models is not sufficient for this purpose: relevant features in encoding and decoding models carry a different meaning in stimulus- and in response-based experimental paradigms.We show that only encoding models in the stimulus-based setting support unambiguous causal interpretations. By combining encoding and decoding models trained on the same data, however, we obtain insights into causal relations beyond those that are implied by each individual model type. We illustrate the empirical relevance of our theoretical findings on EEG data recorded during a visuo-motor learning task.},
+  author={Weichwald, Sebastian and Meyer, Timm and Özdenizci, Ozan and Schölkopf, Bernhard and Ball, Tonio and Grosse-Wentrup, Moritz},
+  journal={NeuroImage},
+  volume={110},
+  pages={48--59},
+  pdf={https://arxiv.org/pdf/1511.04780},
+  year={2015}
+}
+
+@article{ozdenizci2014towards,
+  bibtex_show={true},
+  abbr={GBCI},
+  title={Towards neurofeedback training of associative brain areas for stroke rehabilitation},
+  abstract={We propose to extend the current focus of BCI-based stroke rehabilitation beyond sensorimotor-rhythms to also include associative brain areas. In particular, we argue that neurofeedback training of brain rhythms that signal a state-of-mind beneficial for motorlearning is likely to enhance post-stroke motor rehabilitation. We propose an adaptive neurofeedback paradigm for this purpose and demonstrate its viability on EEG data recorded with five healthy subjects.},
+  author={Özdenizci, Ozan and Meyer, Timm and {\c{C}}etin, M{\"{u}}jdat and Grosse-Wentrup, Moritz},
+  journal={6th Graz Brain-Computer Interface Conference},
+  pdf={https://labsites.rochester.edu/sdis/wp-content/uploads/2023/03/ozdenizci_BCI14.pdf},
+  year={2014}
+}
+
+@phdthesis{ozdenizci2020dissertation,
+  bibtex_show={false},
+  abbr={Dissertation},
+  title={Statistical Learning and Inference in Neural Signal Processing: Applications to Brain Interfaces},
+  author={Özdenizci, Ozan},
+  school={Ph.D. Thesis, Northeastern University, Boston, MA, USA, April 2020},
+  pdf={https://repository.library.northeastern.edu/files/neu:m046qg150/fulltext.pdf},
+  year={Thesis}
+}
+
+@phdthesis{ozdenizci2016identifying,
+  bibtex_show={false},
+  abbr={Thesis},
+  title={Identifying Neural Correlates of Motor Adaptation Learning for BCI-assisted Stroke Rehabilitation},
+  author={Özdenizci, Ozan},
+  school={MSc. Thesis, Sabancı University, Istanbul, Turkey, August 2016},
+  pdf={https://repository.library.northeastern.edu/files/neu:m046qg150/fulltext.pdf},
+  year={Thesis}
+}
+
+@phdthesis{ozdenizci2014neurofeedback,
+  bibtex_show={false},
+  abbr={Thesis},
+  title={Neurofeedback Training via Brain-Computer Interfaces for Motor Learning Performance},
+  author={Özdenizci, Ozan},
+  school={BSc. Senior Project, Sabancı University, Istanbul, Turkey, June 2014},
+  year={Thesis}
 }
