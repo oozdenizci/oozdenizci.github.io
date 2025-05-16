@@ -484,7 +484,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/ozan-özdenizci", "_blank");
+          window.open("https://www.linkedin.com/in/ozanozdenizci", "_blank");
         },
       },{
       id: 'light-theme',
