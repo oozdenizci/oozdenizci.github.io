@@ -15,9 +15,9 @@ We have an open postdoctoral researcher position focused on developing energy-ef
 
 The successful candidate will contribute to cutting-edge research at the intersection of neuromorphic computing and wireless technologies, in particular by designing novel learning algorithms for SNN-based energy-efficient neural receivers. Candidates are required to have a PhD degree in computer science, artificial intelligence, electrical engineering, or similar. A strong background and research experience with spiking neural networks and deep learning are expected.
 
-The position will be jointly supervised by Ozan Özdenizci and Robert Legenstein, and it is fully-funded for 2 years in cooperation with Huawei Technologies Sweden AB. Please send your application documents including a CV, letter of motivation, any prior thesis work, and transcript of records to the e-mail address oezdenizci@tugraz.at, using the subject line "PostDoc Application". Applications will be reviewed on a rolling basis.
+The position will be jointly supervised by Ozan Özdenizci and Robert Legenstein, and it is funded for 2 years in cooperation with Huawei Technologies Sweden AB. 
+Please check [here](https://www.tugraz.at/institute/iml/institute/open-positions#c691848) for details on how to apply.
 
-Application deadline: August 15th, 2025
 Starting date: October 2025
 
 ----
