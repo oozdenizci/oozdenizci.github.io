@@ -61,6 +61,17 @@
   year={2025}
 }
 
+@article{dave2025learning,
+  bibtex_show={true},
+  abbr={TMLR},
+  title={Learning robust representations for visual reinforcement learning via task-relevant mask sampling},
+  abstract={Humans excel at isolating relevant information from noisy data to predict the behavior of dynamic systems, effectively disregarding non-informative, temporally-correlated noise. In contrast, existing visual reinforcement learning algorithms face challenges in generating noise-free predictions within high-dimensional, noise-saturated environments, especially when trained on world models featuring realistic background noise extracted from natural video streams. We propose Task-Relevant Mask Sampling (TRMS), a novel approach for identifying task-specific and reward-relevant masks. TRMS utilizes existing segmentation models as a masking prior, which is subsequently followed by a mask selector that dynamically identifies  subset of masks at each timestep, selecting those most probable to contribute to task-specific rewards. To mitigate the high computational cost associated with these masking priors, a lightweight student network is trained in parallel. This network learns to perform masking independently and replaces the Segment Anything Model~(SAM)-based teacher network after a brief initial phase (<10-25\% of total training). TRMS  enhances the generalization capabilities of Soft Actor-Critic agents under distractions, achieves better performance on the RL-Vigen benchmark, which includes challenging variants of the DeepMind Control Suite, Dexterous Manipulation and Quadruped Locomotion tasks.},
+  author={Dave, Vedant and Özdenizci, Ozan and Rueckert, Elmar},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  pdf={https://openreview.net/pdf?id=2rxNDxHwtn},
+  year={2025}
+}
+
 @article{neubauer2025sparsifying,
   bibtex_show={true},
   abbr={ECML},
@@ -69,6 +80,28 @@
   author={Neubauer, Melanie and Özdenizci, Ozan and Piater, Justus and Rueckert, Elmar},
   journal={Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD)},
   pdf={https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_558.pdf},
+  year={2025}
+}
+
+@article{sebestyen2025nurbs,
+  bibtex_show={true},
+  abbr={IJAC},
+  title={From NURBS to neural networks: Efficient geometry encoding for generative AI in architectural design},
+  abstract={The existing 3D representations for AI models, such as meshes, voxels, signed distance functions, and point clouds, are not compatible with architectural design workflows that rely on NURBS geometry, which is mainly used in CAD programs. ​These formats lead to large datasets, high computational costs, and loss of geometric precision, limiting further usability in CAD software. This research introduces a novel methodology for encoding NURBS geometries into compact, tensor-based NumPy data for training generative AI models and vice versa. Our methodology involves the design of comparative experiments, the comparison of NURBS tensor representations with other 3D representations, and the use of reconstruction accuracy as a key metric to evaluate performance. ​Custom components for the Rhinoceros 3D parametric environment Grasshopper were developed enabling bidirectional conversion between NURBS geometry and NumPy tensors. These components are being released as a Grasshopper plugin under the name Wiener Dog as a free download. ​Our approach maintains geometric accuracy, reduces data size, and integrates seamlessly with existing deep learning libraries. ​The proposed methodology was tested on datasets of helicoid surfaces and lofted polysurfaces, demonstrating high reconstruction accuracy and generative potential. The ultimate aim is to build an AI tool that aids in exploring the great variety of geometric forms for architectural design.},
+  author={Sebestyen, Adam and Wiltsche, Albert and Stavric, Milena and Özdenizci, Ozan},
+  journal={International Journal of Architectural Computing},
+  pdf={https://journals.sagepub.com/doi/reader/10.1177/14780771251353791},
+  year={2025}
+}
+
+@article{sebestyen2025nurbs,
+  bibtex_show={true},
+  abbr={eCAADe},
+  title={Generative AI Meets CAD: Training latent diffusion models with NURBS geometry},
+  abstract={Generative deep neural networks are rapidly advancing in the field of architectural design. Unfortunately, current research in this field has notable shortcomings. Most architectural artificial intelligence (AI) research still focuses on 2D images rather than 3D CAD outputs. Additionally, architectural research predominantly relies on less advanced AI models, whereas fields like computer science have adopted more sophisticated approaches, including denoising diffusion probabilistic models (DDPMs) and latent diffusion models (LDMs). A key challenge in applying deep learning to 3D architectural design lies in the limitations of common 3D data representations—meshes, point clouds, and voxels—which are often imprecise due to their discrete nature. AI models trained on these formats generate outputs in the same formats, none of which align with the practical needs of architects. Architects primarily work with CAD-based vector formats like NURBS, optimized for precision and ease of manipulation. Using NURBS data directly in neural networks is rarely explored in research, despite this approach appearing particularly promising, as NURBS’s vector-based representation is inherently efficient and well-suited for deep learning. This research presents a prototype LDM trained with NURBS 3D data, capable of generating NURBS polysurfaces compatible with CAD tools. The resulting geometries exhibit novel hybrid properties not found in the training dataset, representing rudimentary architectural concepts.},
+  author={Sebestyen, Adam and Wiltsche, Albert and Stavric, Milena and Özdenizci, Ozan},
+  journal={43rd Conference on Education and Research in Computer Aided Architectural Design in Europe-Confluence: eCAADe 2025},
+  pdf={https://conf.dap.tuwien.ac.at/preprints/ecaade2025/ecaade2025_282.pdf},
   year={2025}
 }
 
