@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: ozanozdenizci.png
+  image: ozanozdenizci.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Inffeldgasse 16b/I</p>
