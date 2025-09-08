@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My research in the [Bilateral AI](https://www.bilateral-ai.net/home) project was featured in a TU Graz Research News [portrait](https://www.tugraz.at/en/news/article/on-the-way-to-a-truly-intelligent-ai).
+My work in the [<b>Bilateral AI</b>](https://www.bilateral-ai.net/home) project was featured in a TU Graz News [research portrait](https://www.tugraz.at/en/news/article/on-the-way-to-a-truly-intelligent-ai).
