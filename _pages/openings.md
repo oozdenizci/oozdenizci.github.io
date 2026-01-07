@@ -20,7 +20,7 @@ The position is funded for 18 months and can be filled at either:
 The successful candidate is expected to have a strong background and research experience in deep learning. Knowledge in spiking neural networks and/or state-space models would be beneficial.
 Applications will be reviewed on a rolling basis. Please send your application documents: (1) motivation letter, (2) CV, (3) academic transcripts, (4) contact information of two references, <a href="mailto:oezdenizci@tugraz.at">via email</a>.
 
-Earliest start date: March 2026
+Starting date: March 2026
 
 <!--
 ----
