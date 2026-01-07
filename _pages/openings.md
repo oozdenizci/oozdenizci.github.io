@@ -11,17 +11,18 @@ Thank you for your interest in joining us at the Institute of Machine Learning a
 ----
 <h5><b>Open Position: Postdoctoral / Predoctoral ML Researcher (18-month fixed term)</b></h5>
 
-We are seeking a highly motivated researcher to join us at the Institute of Machine Learning and Neural Computation, at TU Graz, to work on novel recurrent spiking neural network models for resource-efficient long-sequence modeling. Developed models will be specifically applied to spectro-temporal data.
+We are seeking a highly motivated researcher to join us in a project position focused on developing novel recurrent spiking neural network models for resource-efficient long-sequence modeling. Developed models will be specifically applied to spectro-temporal data.
 
-The position is funded for 18 months and can be filled at either:
-(1) Postdoctoral level (PhD completed by start date), or 
-(2) Predoctoral / Research Assistant level (Master’s degree completed by start date), with the possibility of PhD research internships.
+The position is funded for 18 months and can be filled at either:\\
+(1) Postdoctoral level (PhD completed by start date), or \\
+(2) Predoctoral / Research Assistant level (completed Master’s degree), with the possibility of PhD research internships.
 
 The successful candidate is expected to have a strong background and research experience in deep learning. Knowledge in spiking neural networks and/or state-space models would be beneficial. 
 
 Applications will be reviewed on a rolling basis. Please send your application documents: (1) motivation letter, (2) CV, (3) academic transcripts, (4) contact information of two references, <a href="mailto:oezdenizci@tugraz.at">via email</a>.
 
 Earliest start date: March 2026
+----
 
 <!--
 ----

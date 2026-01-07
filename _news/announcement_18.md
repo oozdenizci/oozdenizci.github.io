@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 🚀 New project <b>SpiNNER</b> officially kicked off.\\
-In cooperation with Huawei Technologies Sweden, we will work on "Algorithms for Spiking Neural Network based Efficient Neural Receivers".
+We will work on "Algorithms for Spiking Neural Network based Efficient Neural Receivers", in cooperation with Huawei Technologies Sweden.
