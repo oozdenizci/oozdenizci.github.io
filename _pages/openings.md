@@ -11,7 +11,7 @@ Thank you for your interest in joining us at the Institute of Machine Learning a
 ----
 <h5><b>Open Position: Postdoctoral / Predoctoral ML Researcher (18-month fixed term)</b></h5>
 
-We are seeking a highly motivated researcher to join us in a project position focused on developing novel recurrent spiking neural network models for resource-efficient long-sequence modeling. Developed models will be specifically applied to spectro-temporal data.
+We are seeking a highly motivated researcher to join us in a project position focused on developing novel recurrent neural network models with spiking neurons for resource-efficient long-sequence modeling. Developed models will be specifically applied to spectro-temporal data.
 
 The position is funded for 18 months and can be filled at either:
 (1) Postdoctoral level (PhD completed by start date), or 
