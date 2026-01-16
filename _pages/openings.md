@@ -11,10 +11,10 @@ Thank you for your interest in joining us at the Institute of Machine Learning a
 ----
 <h5><b>Open PhD Position</b></h5>
 
-We have an open a doctoral researcher position focused on reliable and resource-efficient deep learning techniques, with an emphasis on spike-based neural computation mechanisms in modern learning systems. The PhD research will address both fundamental and applied algorithmic questions on learning methods and neural architectures. 🧠💻
+We are hiring a doctoral researcher focused on reliable and resource-efficient deep learning techniques, with an emphasis on spike-based neural computation mechanisms in modern learning systems. The PhD research will address both fundamental and applied algorithmic questions on learning methods and neural architectures.
 
-Duration of employment: 3 years
-Working hours: 40 hours/week
+Duration of employment: 3 years\\
+Working hours: 40 hours/week\\
 Starting date: April 2026
 
 Requirements:
