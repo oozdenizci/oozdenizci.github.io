@@ -9,6 +9,25 @@ nav_order: 6
 Thank you for your interest in joining us at the Institute of Machine Learning and Neural Computation at TU Graz.
 
 ----
+<h5><b>Open PhD Position</b></h5>
+
+We have an open a doctoral researcher position focused on reliable and resource-efficient deep learning techniques, with an emphasis on spike-based neural computation mechanisms in modern learning systems. The PhD research will address both fundamental and applied algorithmic questions on learning methods and neural architectures. 🧠💻
+
+Duration of employment: 3 years
+Working hours: 40 hours/week
+Starting date: April 2026
+
+Requirements:
+* Master’s degree in computer science, artificial intelligence, electrical engineering, or a related field
+* Strong technical background in machine learning with deep neural networks
+* Good programming skills (e.g., PyTorch or JAX)
+* Excellent academic record and strong motivation for research
+
+Application:
+Please submit a motivation letter, CV, academic transcripts, and contact information for two references via email to: <a href="mailto:oezdenizci@tugraz.at">oezdenizci@tugraz.at</a>.
+
+<!--
+----
 <h5><b>Open Position: Postdoctoral / Predoctoral ML Researcher (18-month fixed term)</b></h5>
 
 We are seeking a highly motivated researcher to join us in a project position focused on developing novel recurrent neural network models with spiking neurons for resource-efficient long-sequence modeling. Developed models will be specifically applied to spectro-temporal data.
@@ -22,7 +41,6 @@ Applications will be reviewed on a rolling basis. Please send your application d
 
 Starting date: March 2026
 
-<!--
 ----
 <h5><b>Open PostDoc Position: Spiking Neural Networks for Wireless Communication Systems</b></h5>
 
