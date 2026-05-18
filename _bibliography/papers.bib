@@ -1,30 +1,6 @@
 ---
 ---
 
-@article{baronig2025scalable,
-  bibtex_show={false},
-  abbr={arXiv},
-  title={A scalable hybrid training approach for recurrent spiking neural networks},
-  abstract={Recurrent spiking neural networks (RSNNs) can be implemented very efficiently in neuromorphic systems. Nevertheless, training of these models with powerful gradient-based learning algorithms is mostly performed on standard digital hardware using Backpropagation through time (BPTT). However, BPTT has substantial limitations. It does not permit online training and its memory consumption scales linearly with the number of computation steps. In contrast, learning methods using forward propagation of gradients operate in an online manner with a memory consumption independent of the number of time steps. These methods enable SNNs to learn from continuous, infinite-length input sequences. Yet, slow execution speed on conventional hardware as well as inferior performance has hindered their widespread application. In this work, we introduce HYbrid PRopagation (HYPR) that combines the efficiency of parallelization with approximate online forward learning. Our algorithm yields high-throughput online learning through parallelization, paired with constant, i.e., sequence length independent, memory demands. HYPR enables parallelization of parameter update computation over the sub sequences for RSNNs consisting of almost arbitrary non-linear spiking neuron models. We apply HYPR to networks of spiking neurons with oscillatory subthreshold dynamics. We find that this type of neuron model is particularly well trainable by HYPR, resulting in an unprecedentedly low task performance gap between approximate forward gradient learning and BPTT.},
-  author={Baronig, Maximilian and Bahariasl, Yeganeh and {\"O}zdenizci, Ozan and Legenstein, Robert},
-  journal={arXiv preprint arXiv:2506.14464},
-  pdf={https://arxiv.org/pdf/2506.14464},
-  code={https://github.com/IMLTUGraz/HYPR},
-  year={Preprints}
-}
-
-@article{lygerakis2025vitapes,
-  bibtex_show={false},
-  abbr={arXiv},
-  title={ViTaPEs: Visuotactile position encodings for cross-modal alignment in multimodal transformers},
-  abstract={Tactile sensing provides local essential information that is complementary to visual perception, such as texture, compliance, and force. Despite recent advances in visuotactile representation learning, challenges remain in fusing these modalities and generalizing across tasks and environments without heavy reliance on pre-trained vision-language models. Moreover, existing methods do not study positional encodings, thereby overlooking the multi-scale spatial reasoning needed to capture fine-grained visuotactile correlations. We introduce ViTaPEs, a transformer-based framework that robustly integrates visual and tactile input data to learn task-agnostic representations for visuotactile perception. Our approach exploits a novel multi-scale positional encoding scheme to capture intra-modal structures, while simultaneously modeling cross-modal cues. Unlike prior work, we provide provable guarantees in visuotactile fusion, showing that our encodings are injective, rigid-motion-equivariant, and information-preserving, validating these properties empirically. Experiments on multiple large-scale real-world datasets show that ViTaPEs not only surpasses state-of-the-art baselines across various recognition tasks but also demonstrates zero-shot generalization to unseen, out-of-domain scenarios. We further demonstrate the transfer-learning strength of ViTaPEs in a robotic grasping task, where it outperforms state-of-the-art baselines in predicting grasp success.},
-  author={Lygerakis, Fotios and {\"O}zdenizci, Ozan and Rueckert, Elmar},
-  journal={arXiv preprint arXiv:2505.20032},
-  pdf={https://arxiv.org/pdf/2505.20032},
-  code={https://sites.google.com/view/vitapes},
-  year={Preprints}
-}
-
 @article{nwankwo2025reli,
   bibtex_show={false},
   abbr={arXiv},
@@ -35,6 +11,30 @@
   pdf={https://arxiv.org/pdf/2505.01862},
   code={https://github.com/LinusNEP/ReLI},
   year={Preprints}
+}
+
+@article{baronig2026scalable,
+  bibtex_show={false},
+  abbr={NCE},
+  title={A scalable hybrid training approach for recurrent spiking neural networks},
+  abstract={Recurrent spiking neural networks (RSNNs) can be implemented very efficiently in neuromorphic systems. Nevertheless, training of these models with powerful gradient-based learning algorithms is mostly performed on standard digital hardware using Backpropagation through time (BPTT). However, BPTT has substantial limitations. It does not permit online training and its memory consumption scales linearly with the number of computation steps. In contrast, learning methods using forward propagation of gradients operate in an online manner with a memory consumption independent of the number of time steps. These methods enable SNNs to learn from continuous, infinite-length input sequences. In addition, approximate forward propagation algorithms have been developed that can be implemented on neuromorphic hardware. Yet, slow execution speed on conventional hardware as well as inferior performance has hindered their widespread application. In this work, we introduce HYbrid PRopagation (HYPR) that combines the efficiency of parallelization with approximate online forward learning. Our algorithm yields high-throughput online learning through parallelization, paired with constant, i.e., sequence length independent, memory demands. HYPR enables parallelization of parameter update computation over subsequences for RSNNs consisting of almost arbitrary non-linear spiking neuron models. We apply HYPR to networks of spiking neurons with oscillatory subthreshold dynamics. We find that this type of neuron model is particularly well trainable by HYPR, resulting in an unprecedentedly low task performance gap between approximate forward gradient learning and BPTT.},
+  author={Baronig, Maximilian and Bahariasl, Yeganeh and {\"O}zdenizci, Ozan and Legenstein, Robert},
+  journal={Neuromorphic Computing and Engineering},
+  pdf={https://iopscience.iop.org/article/10.1088/2634-4386/ae46d4/pdf},
+  code={https://github.com/IMLTUGraz/HYPR},
+  year={2026}
+}
+
+@article{lygerakis2026vitapes,
+  bibtex_show={false},
+  abbr={TMLR},
+  title={ViTaPEs: Visuotactile position encodings for cross-modal alignment in multimodal transformers},
+  abstract={Tactile sensing provides local essential information that is complementary to visual perception, such as texture, compliance, and force. Despite recent advances in visuotactile representation learning, challenges remain in fusing these modalities and generalizing across tasks and environments without heavy reliance on pre-trained vision-language models. Moreover, existing methods do not study positional encodings, thereby overlooking the multi-stage spatial reasoning needed to capture fine-grained visuotactile correlations. We introduce ViTaPEs, a transformer-based architecture for learning task-agnostic visuotactile representations from paired vision and tactile inputs. Our key idea is a two-stage positional injection: local (modality-specific) positional encodings are added within each stream, and a global positional encoding is added on the joint token sequence immediately before attention, providing a shared positional vocabulary at the stage where cross-modal interaction occurs. We make the positional injection points explicit and conduct controlled ablations that isolate their effect before a token-wise nonlinearity versus immediately before self-attention. Experiments on multiple large-scale real-world datasets show that ViTaPEs not only surpasses state-of-the-art baselines across various recognition tasks but also demonstrates zero-shot generalization to unseen, out-of-domain scenarios. We further demonstrate the transfer-learning strength of ViTaPEs in a robotic grasping task, where it outperforms state-of-the-art baselines in predicting grasp success.},
+  author={Lygerakis, Fotios and {\"O}zdenizci, Ozan and Rueckert, Elmar},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  pdf={https://openreview.net/pdf?id=mxzzO66Zbu},
+  code={https://sites.google.com/view/vitapes},
+  year={2026}
 }
 
 @article{ozdenizci2025privacyaware,
