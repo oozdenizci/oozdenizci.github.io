@@ -8,6 +8,9 @@ nav_order: 6
 
 Thank you for your interest in joining us at the Institute of Machine Learning and Neural Computation at TU Graz.
 
+There are currently no open positions.
+
+<!--
 ----
 <h5><b>Open PhD Position</b></h5>
 
@@ -22,7 +25,6 @@ Requirements:
 Application:
 Please submit a motivation letter, CV, academic transcripts, and contact information for two references via email to: <a href="mailto:oezdenizci@tugraz.at">oezdenizci@tugraz.at</a>.
 
-<!--
 ----
 <h5><b>Open Position: Postdoctoral / Predoctoral ML Researcher (18-month fixed term)</b></h5>
 
