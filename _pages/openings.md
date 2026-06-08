@@ -8,6 +8,8 @@ nav_order: 6
 
 Thank you for your interest in joining us at the Institute of Machine Learning and Neural Computation at TU Graz.
 
+----
+
 There are currently no open positions.
 
 <!--
